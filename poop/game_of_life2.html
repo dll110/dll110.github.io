@@ -1,0 +1,143 @@
+<body style="background:black;margin:0px"></body>
+<script>
+
+//set screen size
+var W = Math.min(1000, innerWidth * devicePixelRatio)
+var H = Math.min(1000, innerHeight * devicePixelRatio)
+
+var c = document.createElement('canvas')
+c.width = W
+c.height = H
+c.style.width = c.width / devicePixelRatio
+c.style.height = c.height / devicePixelRatio
+c.style['image-rendering'] = 'pixelated'
+document.body.append(c)
+var gl = c.getContext('webgl2')
+gl.getExtension('EXT_color_buffer_float')
+
+
+var fps_d = document.createElement('div')
+document.body.append(fps_d)
+fps_d.style.position = 'absolute'
+fps_d.style.display = 'none'
+fps_d.style.left = '0px'
+fps_d.style.top = '0px'
+fps_d.style.color = 'red'
+fps_d.textContent = 'fps'
+
+
+var vs = createShader(gl, gl.VERTEX_SHADER, `#version 300 es
+in vec4 a_position;
+void main() {
+    gl_Position = a_position;
+}
+`)
+
+// to calculate neighbor influence of pixel
+var fs2 = createShader(gl, gl.FRAGMENT_SHADER, `#version 300 es
+precision mediump float;
+
+uniform sampler2D u_image;
+uniform float iteration;
+
+out vec4 outColor;
+
+float check_neighbor(vec2 d) {
+    vec4 them = texture(u_image, vec2((gl_FragCoord.x + d.x) / float(${W}), (gl_FragCoord.y + d.y) / float(${H})));
+    
+    return them.x;
+}
+
+void main() {
+    float env = 0;
+    vec4 self = texture(u_image, vec2(gl_FragCoord.x / float(${W}), gl_FragCoord.y / float(${H})));
+    vec4 c = vec4(self.x, 0.0, 0.0, 1.0);
+
+    env += check_neighbor(vec2(1.0, -1.0));
+    env += check_neighbor(vec2(0.0, -1.0));
+    env += check_neighbor(vec2(-1.0, -1.0));
+    env += check_neighbor(vec2(1.0, 1.0));
+    env += check_neighbor(vec2(0.0, 1.0));
+    env += check_neighbor(vec2(-1.0, 1.0));
+    env += check_neighbor(vec2(1.0, 0.0));
+    env += check_neighbor(vec2(-1.0, 0.0));
+
+    if (c.x == 1) {
+        if (env < 2 | env > 3) {
+            c.x = 0;
+        }
+    }
+    elseif (c.x == 0) {
+        if (env == 3) {
+            c.x = 1;
+        }
+    }
+
+    outColor = c;
+
+}
+`)
+
+var fps_avg = 0
+var last_time = 0
+
+loop()
+function loop() {
+    
+    for (var i = 0; i < 10; i++) {
+        gl.bindTexture(gl.TEXTURE_2D, targetTexture)
+        
+        gl.bindFramebuffer(gl.FRAMEBUFFER, fb)
+        gl.useProgram(program2)
+        gl.uniform1f(iteration, iteration_num)
+        iteration_num++
+        
+        gl.drawArrays(gl.TRIANGLES, 0, 3)
+        
+        ;[targetTexture, targetTexture2] = [targetTexture2, targetTexture]
+        ;[fb, fb2] = [fb2, fb]
+    }
+    
+    gl.bindTexture(gl.TEXTURE_2D, targetTexture)
+    
+    gl.bindFramebuffer(gl.FRAMEBUFFER, null)
+    gl.useProgram(program)
+    gl.drawArrays(gl.TRIANGLES, 0, 3)
+    
+    
+    
+    var now = Date.now()
+    var dt = now - last_time
+    last_time = now
+    fps_avg = 0.9 * fps_avg + 0.1 * (1/(dt/1000))
+    fps_d.textContent = fps_avg.toFixed(3) + ' fps'
+    
+    
+    
+    //setTimeout(loop, 1000)
+    window.requestAnimationFrame(loop)
+}
+
+
+
+
+function createShader(gl, type, source) {
+    var shader = gl.createShader(type)
+    gl.shaderSource(shader, source)
+    gl.compileShader(shader)
+    if (gl.getShaderParameter(shader, gl.COMPILE_STATUS)) return shader
+    console.log(gl.getShaderInfoLog(shader))
+    gl.deleteShader(shader)
+}
+
+function createProgram(gl, vertexShader, fragmentShader) {
+    var program = gl.createProgram()
+    gl.attachShader(program, vertexShader)
+    gl.attachShader(program, fragmentShader)
+    gl.linkProgram(program)
+    if (gl.getProgramParameter(program, gl.LINK_STATUS)) return program
+    console.log(gl.getProgramInfoLog(program))
+    gl.deleteProgram(program)
+}
+
+</script>
