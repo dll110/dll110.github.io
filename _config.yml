@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -53,3 +54,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+name: dll110
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
+show_exceprts: true
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+theme: jekyll-theme-midnight
+title: bleh
+description: bluh
+>>>>>>> 30a5551fd9c59f0aafc351b8a17eef8c95f2dd0d
