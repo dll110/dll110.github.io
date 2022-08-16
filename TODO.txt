@@ -1,0 +1,14 @@
+TODO.txt
+
+input/yummy: 
+inflow
+quotes
+book notes
+
+digestion:
+book reviews
+musings
+
+poop:
+previews projects
+analyses
