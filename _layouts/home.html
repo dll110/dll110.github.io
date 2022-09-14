@@ -8,8 +8,8 @@ layout: default
   {%- endif -%}
 
   <img src="kirby feet.jpg" alt="Dinosaur">
-  <img src="sisters.jpeg" alt="Dinosaur"> 
   
+  <h2 class="post-list-heading">{{ page.list_title | default: "Welcome to my closet in the internet." }}</h2>
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
