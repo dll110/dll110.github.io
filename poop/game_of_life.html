@@ -1,9 +1,14 @@
-<body style="background:black;margin:0px"></body>
+---
+layout: page
+title: a game of life
+---
+
+<body style="background:white;"></body>
 <script>
 
 //set screen size
-var W = Math.min(5000, innerWidth * devicePixelRatio)
-var H = Math.min(5000, innerHeight * devicePixelRatio)
+var W = Math.min(1500, innerWidth * devicePixelRatio)
+var H = Math.min(500, innerHeight * devicePixelRatio)
 
 var c = document.createElement('canvas')
 c.width = W
