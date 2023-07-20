@@ -1,9 +1,10 @@
 ---
 layout: page
 title: on starting to write
+date: 2023/07/20
 ---
 
-**[2021/03/23]**
+_[written 2021/03/23]_
 
 I’ve been reading David Lipsky’s “Although of course you end up becoming yourself: A road trip with David Foster Wallace”. It’s not something I would ordinarily pick up, but I’ve been primed because a number of people in my social circles have been talking about David Foster Wallace lately (n=2...but they don’t know each other!) 
 

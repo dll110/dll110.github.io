@@ -1,5 +1,6 @@
 body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 0.8em;
     margin: 60px auto;
     width: 70%;
 }
@@ -22,6 +23,13 @@ a:hover {
 }
 h1 {
     font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+h2 {
+    font-size: 1.25em;
+    font-style: italic;
+    font-weight: normal;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
