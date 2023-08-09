@@ -1,6 +1,7 @@
 ---
 layout: post
 title: the practicality of frivolous stories
+permalink: /poop/narratives
 date: 2023/07/22
 ---
 
