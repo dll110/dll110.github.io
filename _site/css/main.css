@@ -32,6 +32,13 @@ h2 {
     font-weight: normal;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+h3 {
+    font-size: 1em;
+    font-weight: normal;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 p {
     font-size: 1.25em;
     line-height: 1.4em;
