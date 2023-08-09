@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A beginning, of sorts
+published: false
 ---
 
 In less than a month, I'll become a matriculated PhD student -- I'm at the beginning of my PhD. 

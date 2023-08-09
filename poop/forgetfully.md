@@ -40,9 +40,9 @@ But that snippet was memorable because my experience maps to the inverse: Becaus
 
 >“The thing is that your memory doesn’t actually get any bigger, and a lot of stuff just falls out. So you see, the major difference between you and me is not how much I know, but how much I’ve forgotten.” (“Dirk Gently”, 209)
 
-Though what I mean to discuss is not mere forgetting, but biased/organized forgetting. Technically, you can be forgetful and not organize but then that's undeniably worse and uninteresting. I mean to talk about forgetting in the context you have things you care about. Someone once asked me why I read so much if I forgot most of it (I can't recall if it was asked or if it was just obvious). I was stumped for a few days, but I arrived at a satisfying answer: For the stuff I do remember from the books. (And I believe that even the things you don't remember have an effect -- I think of it like training data on a neural network: you can lose the training data after you've trained your model, but the effect on your model weights are still there.)
+Though what I mean to discuss is not mere forgetting, but biased/organized forgetting. Technically, you can be forgetful and not organize but then that's undeniably worse and uninteresting. I mean to talk about forgetting in the context you have things you care about. Someone once asked me why I read so much if I forgot most of it (I can't recall if it was asked or if it was just obvious). I was stumped for a few days, but I arrived at a satisfying answer: For the stuff I do remember from the books. 
 
-Because the things I do remember aren't random. They're interesting. And by forgetting the rest, I've just increased the signal to noise ratio. This is pretty much the domain of compression, and I first found it interesting through a fascination with PCA (Principal Components Analysis). 
+Because the things I do remember tend to be the interesting bits. And by forgetting the rest, I've just increased the signal to noise ratio. This is pretty much the domain of compression, and I discovered through a fascination with PCA (Principal Components Analysis). 
 
 [image of pc plot]
 
@@ -88,28 +88,50 @@ http://localroger.com/prime-intellect/mopising.html
 He gestures to an interesting point: We seem to have a natural inclination against forgetting/ungrowth -- why is that?
 
 
-II. Sure forgetting is great -- why do we not value forgetting more?
+II. Sure, forgetting is great -- why do we not value forgetting more?
 
-Maybe it’s sunk cost fallacy, because it usually requires significant effort to make it in the first place. Or maybe it’s closer to activation energy, because they know how much it'll cost to build another one. But I’m one of the laziest people I know and I'm great at this (or perhaps you need to be sufficiently low RAM to be ~~desperate~~ motivated).
+Maybe it’s sunk cost fallacy, because it usually requires significant effort to make the framework/understanding/whatever in the first place. Or maybe it’s closer to activation energy, because they know how much it'll cost to build another one and dread it. But I’m one of the laziest people I know and I'm great at this (or perhaps you need to be sufficiently low RAM to be ~~desperate~~ motivated).
 
-I propose that the main antithesis to forgetting is this ineffable thing called sentimentality. They are literally sometimes referred to as ‘attachments’. That urge driving people to photograph/video everything, to not dump the useless but cute stuffie, to live in the past, to live forever, etc. Perhaps, wanting to live forever is ultimate narcissm. 
+I propose that the main antithesis to forgetting is this ineffable thing called sentimentality. They are sometimes referred to as ‘attachments’. It's that urge driving people to photograph/video everything, to not dump the useless but cute stuffie, to live in the past, to try to live forever, etc. (arguably, wanting to live forever is an attachment to yourself -- ultimate narcissm?) 
 
-Why are we sentimental? My naive response was 'because we like to attach ourselves to things we like', but because therapy exists I suspect we attach ourselves to things we don't like as well. 
+Why are we sentimental? 
 
-Perhaps it's just momentum. Things you encounter/experience trains the model of 'you': Whether you subsequently remember them or not, they tweak the weights, creating inclinations of thought, which become ruts of thought, whose patterns characterize 'you'. As Hofstadter proposes: "Each of us exhibits a cognitive style that in essence defines the ruts we are permanently caught in. (537)". 
+My naive response was 'because we like to attach ourselves to things we like', but because therapy exists I suspect we attach ourselves to things we don't like as well. 
 
-And the implication of having a cognitive style is that there is commitment to a system, in the way that using an operating system or langauge has. I collected this unexpected tidbit from a book on theoretical biology a while back that seems relevant:
+Perhaps it's just momentum -- things you encounter/experience trains the model of 'you'. Whether you subsequently remember them or not, they tweak the weights, creating inclinations of thought, which become ruts of thought, whose aggregate patterns characterize 'you'. As Hofstadter claims, "Each of us exhibits a cognitive style that in essence defines the ruts we are permanently caught in. (537)". 
+
+And the implication of having a cognitive style is that there is commitment to a system, in the way that using an operating system or langauge is a commitment to its underlying system; you operate on its rules. And somehow, in committing to a system, we seem to want to stick with it -- perhaps this is sunk cost fallacy after all. I collected this unexpected tidbit from a book on theoretical biology a while back that seems relevant:
 >“We might even say that the models embodied in an anticipatory system are what comprise its individuality; what distinguish it uniquely from other systems. As we have seen, a change in these models is a change of identity; this is perhaps why, for human beings, the preservation of models becomes identical with the preservation of self. The identification of one's self with one's models explains, perhaps, why human beings are so often willing to die; i.e. to suffer biological extinction, rather than change their models, and why suicide is so often, and so paradoxically, an ultimate act of self preservation.” (“Anticipatory Systems”, 403)
 
-I somehow found this a compelling way to think about why people die for religious/political/social beliefs. And science is not immune, as there is the adage, "Science progresses one funeral at a time."
-Still, there seems to be a prevailing belief that "death is bad" -- and I find myself a bit alone there. 
+I somehow found this a compelling way to think about why people die for religious/political/social beliefs. And while science is purportedly about a continual updating of knowledge, its proponents do not seem exempt from this phenomena, as there exists the adage, "Science progresses one funeral at a time."
+Yet the prevailing belief seems to be "death is bad" -- and I find myself a bit alone there. 
 
-My small size occasionally inspires the comment ‘you’ll probably live a long time!’ I worked in the aging research for a stint, where there is a notably high concentration of existential desperation for which I seem to somehow lack – which reminds me that part of why I don’t believe in God is because there are things that some people agonize over which I have (here, good odds for living a long time) but don’t care for. I watched A.I. as an elementary schooler and was mildly traumatized by the idea of waking up in the future where no one you love exists anymore. I bring up my fear of a future where [All My Friends Are Dead](), and they often flippantly say that you just make younger friends. In other words, they anticipate they can rely on the strategy of forgetting. Perhaps my imagination here is unusually lacking, but prospectively, a world where most of the people I know today will be gone is depressing. I guess we’ll see whether my forgetfulness or sentimentality wins out. 
+I can come up for a rationalization for it, namely on the consideration that a local optima does not necessarily correspond to a global optima. In other words, I'm generally wary claiming that something is objectively 'good' if I am not sure of the bigger picture. I find that it is hard to make strong value claims because they can easily slip with a different perspective. Here, my imagination thinks it is possible to find things worse than death, and in those cases, death would be good. 
+
+Rosen also wrote this paper called ["Cells and Senesence"](), where he has you consider as a model of 
+
+		n(T) = n(0)e^(a - p)T^ 
+
+where 
+- n(0) is the starting population,
+- n(T) is the population at time T,
+- p is the rate of decay, and
+- a is the rate of proliferation
+
+and comments:
+
+>"...if the rate of proliferation is a decreasing function of time, then if (a - p) is initially positive, the population will initially grow and then senesce. This, crudely, is the behavior characteristic of Hayflick’s clonal senescence, or Danielli’s spanning. In all cases, it occurs without any senescence of the individual elements; it only requires a temporal decrease in the rate of proliferation, not an increase in the rate of mortality. **Paradoxically, we note that the decrease in proliferation rate, with its attendant increase in the life span of the individual elements in the population, actually implies extinction of the population as a whole; the greater the increase in individual life span, the sooner the population will die out.**"
+
+Of course, we are not cells whose lifespan 'ends' when they are split into two, but here's a case where individual lifespan is at odds with population lifespan. I am not confident it is the most relevant metaphor, but the bar isn't high in this field, and there seems to be a convenient positive correlation between age of first child and life expectancy. No matter, we need not wait for life maximilists to succeed to see how this particular model plays out, because the decreased proliferation rate seems to be a trend of global population right now. 
+
+I suppose my rationalization is partially influenced by a relative lack of existential dread. This was especially contrasted by my stint in aging research, where there is a uncuriously high concentration of existential desperation that even I, a noted idiot, noticed. This is compounded by my small size, which occasionally inspires the peppy comment, ‘you’ll probably live a long time!’ This reminds me that part of why I don’t believe in God is because there are things that some people agonize over which I have (here, good odds for living a long time) but don’t care for as much. I watched A.I. as an elementary schooler and was mildly traumatized by the idea of waking up in the future where no one you love exists anymore. I bring up my fear of a future where [All My Friends Are Dead](https://www.amazon.com/All-My-Friends-Are-Dead/dp/0811874559), and they often flippantly say that you just make younger friends. I suppose that they anticipate they can rely on the strategy of forgetting. Somehow I don't seem to trust in my great ability of forgetting in this realm, or perhaps my imagination here is unusually lacking, but prospectively, a world where most of the people I know today will be gone is just rather depressing. I guess we’ll see whether my forgetfulness or sentimentality wins out. (Or maybe I'll just be dead first.)
 
 And perhaps another iteration of myself would be supportive of immortality. But this iteration is particularly happy to die (on this hill). (What would be the new phrase/stakes in the context of mortality?). 
 
 Separate the wheat from the chaff for the next generation, and what do you want to compress and pass on? If you were to compress your life, 
 sensecence?
+
+exploit vs explore
 
 
 
