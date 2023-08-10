@@ -30,6 +30,9 @@ url: "https://dll110.github.io" # the base hostname & protocol for your site, e.
 twitter_username: dll1101
 github_username:  dll110
 
+# Google Analytics
+google_analytics: G-K0J66HDZHY
+
 # Build settings
 theme: minima
 plugins:
