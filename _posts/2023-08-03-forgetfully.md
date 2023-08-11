@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: a case for forgetting (a case for dying)
 date: 2023/08/03
 permalink: /poop/forgetfully

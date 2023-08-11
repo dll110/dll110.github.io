@@ -3,6 +3,7 @@ layout: post
 title: the practicality of frivolous stories
 permalink: /poop/narratives
 date: 2023/07/22
+published: true
 ---
 
 In high school I transitioned from reading a lot of fantasy/adventure to reading nonfiction, like “The Selfish Gene”, “Mutants”, “The Checklist Manifesto”, etc. I remember it was hard – it turned out that I had unconsciously developed the habit of skim-reading, because fantasy/adventure novels tend to have a lot of descriptions that can evoke mental imagery without careful reading. This did not work for the nonfiction I read. I’d go through the motions of reading several pages and not absorb anything I read. I slowly unlearned this habit by keeping a piece of computer paper folded up into quarters as a bookmark, and taking notes to make sure I was comprehending and not forget the interesting bits. I'd conveniently have all the things I found noteworthy on a sheet/sheets of paper to review at the end.
@@ -17,3 +18,10 @@ I wonder if that’s related to the problem that’s pervasive among the kids to
 
 And I wonder if this relates to depressive nihilism, where my speculated preventative against depressive nihilism is being aware of the things that matter to you. Because even if you think objectively that nothing matters in the end, you feel that things matter to you. And I suspect that’s real enough to live a life out on.  
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+_comments solicited, [kludgey comment-able form here](https://docs.google.com/document/d/1ajt3UAd71kClzQVXHCj59ue87yCOB8dSimUMIJU3Jdw/edit?usp=sharing)._
