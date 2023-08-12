@@ -34,7 +34,7 @@ github_username:  dll110
 google_analytics: G-K0J66HDZHY
 
 # Build settings
-theme: minima
+#theme: minima
 remote_theme: jekyll/minima
 
 plugins:
