@@ -1,44 +1,32 @@
 ---
 layout: post
-title: how do you ask a good question
+title: how to ask good questions?
 permalink: /poop/good_questions
 date: 2023/04/30
-published: false
+published: true
 ---
 
+A friend recently introduced me to "the paradox of inquiry", specifically the idea that ['questions came from knowledge that your soul had but forgot and is trying to remember'](https://en.wikipedia.org/wiki/Anamnesis_(philosophy)). So maybe I have a lot of questions because I've [forgotten](dll110.github.io/poop/forgetfully) so much. 
 
-chatgpt, google, people: prompt engineering
-not necessarily transferable; 
+Somehow it's hard to notice if you ask more questions than average, but it's been mentioned often enough over the years that I'm presuming there's a trend somewhere. Curiously, it does not really help me write good prompts to chatgpt, given the lackluster answers it gives me. I am decent at googling though, so it's probably learnt (I'm not really sure why I'm not compelled to learn LLM prompting though).
 
-three cases of asking questions:
-an unknown field
-how to get content/mass to shape things, what objects are there?
-feeling sthe shape of something in a nonnovel field
-figuring out potential associations/implications/integrations
-when you’ve already felt out a good amount of the shape of something; is it a suitable shape to fit here?
+It is easy to ask questions when something is interesting because it lights up a lot of potential paths in your brain. This seems to be what Plato/Socrates observed, where it's easier to ask questions when you already know about a topic. I think it's because these tend to be questions to help _refine_ the shape of an area, and the degree of resolution is such that your questions can be relatively pointed and specific. Questions that people consider 'good' seem to more of this type. 
 
-i ask a lot of questions, few answers, seems like it was the better bet. but now, with things like chatgpt, when will it become automated?
-how would you automate it? 
-give it motivation/ideals/target
+It's harder to ask questions in a void, because without some basic knowledge, there's no expectations. And with no expectations, there's no surprise; with no surprise, there's no questions, at least of a clarifying type. But then you can turn to orienting questions, questions for obtaining a mass of content that you can later shape and refine. I find myself feeling more clunky in this realm, but I wonder if it's somewhat the nature of these types of questions: they naturally have less hooks, and so come less reflexively and tend to be rather generic. Perhaps they get the perception of being dumb questions because they don't show off any existing understanding. I think they're especially important though and I need to intentionally work to improve upon these for myself. 
 
-intuition:
-starts with a framework – it’s hard to ask good questions in a void/knowing little about a topic/being uninterested
-but then you can turn to orienting questions
-with no expectations, no surprise, no questions
-questions to resolve the surprise
+I've adopted the notion that a bad question is better than no question. This is mostly a tool for overcoming self-consciousness, which is not really important, especially relative to the opportunity to understand something better (in general, I have not yet identified an area where it is better to give heavy consideration towards your pride). And if it is an effort towards that, it is a worthy question, even if it is to help you understand how to ask better questions (though I should probably caveat that I haven't historically been pestered by questions, partially because I prefer to be on the question-asking side of things).
 
-easy to ask questions when something is hooky; lights up a lot of paths in your brain
-questions to help clarify the shape of the problem
-a flow state of questions: not too specific, not too general, able to help piece together/deduce shape
+There are at least three artificial categories for asking questions:
+1. exploring an unknown/new field -- how to get content/mass to shape things; what objects are there? getting the other to be more verbose is generally better here. 'why', 'tell me more' are examples here.
+2. feeling out the shape of an area/concept; figuring out what it is and what it is not; trying on various metaphors/parallels to see how well they fit
+3. a miscellaneous category, because it's artificial
 
-‘what happens with’
+I do notice that I seem to have a lot of question relative to answers, so here are some representative standing questions:
 
+What would it take to automate question-asking? How would you automate it? Some complex method would be to give it motivation/ideals/target, mostly because I find it much harder to ask questions when I am not interested. What drives the feeling of being interested? 
 
+Why is asking good questions generally easier in a 1:1 setting versus in a group setting? Versus asking a chatbot? Maybe something about the correlation with a tighter feedback loop? 
 
-asking good questions 1:1 versus in a group setting
-
-plato/greek theory/why socratic method works, the paradox of inquiry:
-questions came from knowledge that your soul had but forgot and is trying to remember
 
 
 &nbsp;
@@ -47,5 +35,5 @@ questions came from knowledge that your soul had but forgot and is trying to rem
 
 ---
 
-_comments solicited, [kludgey comment-able form here](https://docs.google.com/document/d/1ucoRxBOt1kkWkw0vaB1TYxA93SZ9yT2aTwouTgffBPk/edit?usp=sharing)._
+_questions and answers solicited, [kludgey comment-able form here](https://docs.google.com/document/d/1ucoRxBOt1kkWkw0vaB1TYxA93SZ9yT2aTwouTgffBPk/edit?usp=sharing)._
 
