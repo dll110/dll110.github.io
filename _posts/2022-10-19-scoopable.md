@@ -1,9 +1,9 @@
 ---
 layout: post
 title: on being scoopable
-date: 2022/10/23?
+date: 2022/10/19
 permalink: /poop/scoop
-published: false
+published: true
 ---
 
 I attended a number of seminars this week, and a number of them self-consciously joked about being scooped. This is not really frequency illusion -- I'm pretty sure it's a cultural norm/meme. I've never really understood it though. Wouldn't it just be validation/consilience that you're on the right track? And that means you can get your curiosities solved without doing the work! You can turn your attention to the other things you're interested in.

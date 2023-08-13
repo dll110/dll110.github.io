@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: post
 title: acardius amorphus and antisphexishness
+date: 2022/10/01 
+permalink: poop/acardia_amorphus
+published: true 
 ---
 
 <img src="../documents/acardius_amorphus.jpg" alt="it's a ball" style="width:400px;height:500px;float: right;"> 
