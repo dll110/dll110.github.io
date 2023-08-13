@@ -1,12 +1,14 @@
 ---
 layout: post
-title: some important converged norms
+title: recommended norms for high quality discussions
 permalink: /poop/water
 date: 2023/07/20
 published: true
 ---
 
-I used to be envious of people who were best friends, and now I am lucky to find myself a third of a complementary trio of close friends. It’s been interesting to try to analyze our unspoken norms, our deep assumptions on how you're supposed to interact with others, which has evidently yet unconsciously facilitated our friendship. Here are some characteristics we've identified, derived from informative cultural clashes with guests. It is derived from a collaborative draft, but I'm taking this as an exercise in editing it in the way I'd better understand it.
+I used to be envious of people who were best friends, and now I am lucky to find myself a third of a complementary trio of close friends. It’s been interesting to try to analyze our unspoken norms, our deep assumptions on how you're supposed to interact with others, which has evidently yet unconsciously facilitated our friendship. Our friendship can be characterized by being highly conversation-intensive, which I highly enjoy. 
+
+Here are some characteristics we've identified, derived from informative cultural clashes with guests. It is derived from a collaborative draft, but I'm taking this as an exercise in editing it in the way I'd better understand it. 
 
 The identified norms:
 
