@@ -6,8 +6,6 @@ date: 2023/07/28
 published: true
 ---
 
-_draft_
-
 I generally enjoy reading Paul Graham's essays, but when I first read his essay on [independent thinking](http://www.paulgraham.com/think.html) in Nov 2020, I admittedly found it a little bit frustrating. 
 
 It was interesting -- well-written as usual. It was validating, as it describes what I'm doing right. But in my self-absorbed way, the way he went about blithely extolling the virtues of independent thinking while I was dealing with problems that arose from this very independent thinking was pettily but profoundly irritating. 
@@ -28,6 +26,7 @@ I had been listening to the portal podcast around that time (perhaps specificall
 >1. fastidiousness about truth
 >2. resistance to being told what to think
 >3. curiosity
+>
 >(I think if I were a conspiracy theorist, I would think that I have all of these things.)
 
 And of course, it was then easy to draw the lines between conspiracy theorizing and my critical thoughts about the aging field. 
@@ -36,7 +35,7 @@ Then came [the Jan 6th Capitol attack](https://en.wikipedia.org/wiki/January_6_U
 
 If you find yourself distrusting large groups of people, groups that are perceived to have authority, how do you develop a stable sense of reality? 
 
-When I was sufficiently overwhelmed, I went to my close friends, and received reassurance and future insurance/assurance: the solution to this problem is friends. Not just any good friend, but friends that are good at critical thinking in a way that you admire (What if you have bad taste in what is good taste?). You want friends that will be frank with you and tell you what they think (and you should try your best to adopt an attitude that makes them willing to do so). 
+When I was sufficiently overwhelmed, I went to my close friends, and received reassurance and future insurance/assurance: the solution to this problem is friends. Not just any good friend, but friends that are good at critical thinking in a way that you admire (what if you have bad taste in what is good taste?<sup>1</sup>). You want friends that will be frank with you and tell you what they think (and you should try your best to adopt an attitude that makes them willing to do so). 
 
 Things eventually got better. In summer 2021, a friend recommended ‘Edison as I knew him’, citing this particular passage:
 >“That bang on the table was worth worlds to me. No man up to then had given me any encouragement. I had hoped that I was headed right, sometimes I knew that it was, sometimes I only wondered if I was”.
@@ -51,7 +50,7 @@ But I think if you're anything like me, a particular value of friends is so that
 
 
 ---
-<p>[1] I'm sorry, I haven't thought that far. Find better friends?</p>
+<p style="font-size: 12px">[1] I'm sorry, I haven't thought that far -- find better friends? </p>
 
 
 
