@@ -6,6 +6,8 @@ date: 2023/09/06
 published: true
 ---
 
+What happens when we learn something new? 
+
 When you learn a new concept, I think we start by using existing language to describe it. I think it was in Julian Jaynes' "The Origin of Consciousness in the Breakdown of the Bicameral Mind" that claimed that everything you understand is mostly metaphors upon metaphors. ‘This new thing is like X – but like Y in this aspect’. 
 
 So can we help machines learn a new concept on their own?
@@ -31,7 +33,7 @@ In the first image, the numbers correspond to its confidence level for each conc
 
 …why is it so confident? so _wrongly_ confidently??
 
-I thought that I’d be able to at least tell it that ‘when a certain mix between numbers seems to be becoming a trend, take note’. But it’s just so certain that it’s a number each time that I can’t utilize any sort of uncertainty to flag these letters as ‘odd’. It is currently unteachable – it believes that there is nothing for it to learn here. Nothing is weird, apparently.  
+I thought that I’d be able to at least tell it that ‘when there seems to be a trend in a certain mix between numbers, take note’. But it’s just so certain that it’s a number each time that I can’t utilize any sort of uncertainty to flag these letters as ‘odd’. It is currently unteachable – it believes that there is nothing for it to learn here. Nothing is weird, everything is fine, apparently.   
 
 I think I need to probe deeper into how it arrived at these very confident-looking ‘decisions’. It’s probably a byproduct of the learning mechanism; I'm not sure how difficult of a fix it'd be yet.  
 

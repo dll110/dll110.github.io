@@ -1,4 +1,140 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-08T04:12:37-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">how to not learn a new concept; unexpected machine overconfidence</title><link href="http://localhost:4000/poop/overconfidence" rel="alternate" type="text/html" title="how to not learn a new concept; unexpected machine overconfidence" /><published>2023-09-06T00:00:00-07:00</published><updated>2023-09-06T00:00:00-07:00</updated><id>http://localhost:4000/poop/overconfidence</id><content type="html" xml:base="http://localhost:4000/poop/overconfidence">&lt;p&gt;When you learn a new concept, I think we start by using existing language to describe it. I think it was in Julian Jaynes’ “The Origin of Consciousness in the Breakdown of the Bicameral Mind” that claimed that everything you understand is mostly metaphors upon metaphors. ‘This new thing is like X – but like Y in this aspect’.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-15T00:19:49-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">an intro to cancer</title><link href="http://localhost:4000/poop/intro_cancer" rel="alternate" type="text/html" title="an intro to cancer" /><published>2023-09-09T00:00:00-07:00</published><updated>2023-09-09T00:00:00-07:00</updated><id>http://localhost:4000/poop/intro_cancer</id><content type="html" xml:base="http://localhost:4000/poop/intro_cancer">&lt;p&gt;A friend recently reached out to ask my thoughts on cancer treatments for a terminally ill family member ‘because I know biology’. And I realized that despite all my years in biomedical research, I had very little to say; I know surprisingly little about cancer. I guess it’s kind of like asking a software engineer why your computer doesn’t work.&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, it’s an interesting gap in knowledge, and unsurprising: Off the top of my head, I’ve only read two books about cancer: “Emperor of All Maladies” and “The Selfish Cell”.  Let’s how much we can try to fill in.&lt;/p&gt;
+
+&lt;p&gt;Initial gaps in my understanding that seem interesting:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;pediatric vs adult cancer – are there trends in how they arise?&lt;/li&gt;
+  &lt;li&gt;immuno-oncology: how much of cancer incidences involve oversight/dysregulation of the immune system?&lt;/li&gt;
+  &lt;li&gt;how do various cancer treatments purportedly work?&lt;/li&gt;
+  &lt;li&gt;are there underlying principles regarding the types of cancers that tend to arise from the different tissue/organ systems?&lt;/li&gt;
+  &lt;li&gt;why do larger animals not have a higher rate of cancer?&lt;/li&gt;
+  &lt;li&gt;what can cancer tell you about multicellular self-organization?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I anticipate these being rabbit-holes that don’t have obvious endpoints, so I’ll artificially constrain it to ‘how much I can find out in an arbitrary week’.&lt;/p&gt;
+
+&lt;p&gt;Some basics of cancer that I found interesting:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;a decent overview&lt;/a&gt;
+density dependent inhibition
+autocrine growth stimulation
+contact inhibition via cell-cell or cell-matrix contact
+defective differentiation&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;pediatric vs adult cancer – are there trends in how they arise?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;“Pediatric cancer is a developmental disease” – in &lt;em&gt;Origins of Order&lt;/em&gt;, Kauffman suggests considering cancer as a ‘disease of differentiation’, but when I asked a professor who had thought a lot about the evolution of cancer for her research, she said that the current thought is that cancer is moreso a de novo adaptation than an aatavism towards a more stem-like cell type. But perhaps Kauffman’s suggestion may be more true for pediatric cancers (new question: what can they tell us about the origins of new cell types?). Because they are moreso caused by ‘disorganization’ than adapatation, they have lower mutational burden, though with broader epigenetic dysregulation (and epigenetics are where cell types are distinguished). (Some intriguing bio tidbits I’ve filed away are the observations that there are some cancers that seem to be &lt;a href=&quot;&quot;&gt;fully epigenetic&lt;/a&gt; and that it seems possible to take a (specific) cancer and have it functionally integrate with embryonic cells to become a viable organism.) This may be associated with the greater incidence of fusion genes, but I don’t really have any idea of how fusion genes work right now and why it’d relate to cancer (second new question: are there principles underlying how and which genes can recombine?). The most common pediatric cancers are leukemia, central nervous system tumors, neuroblastomas, and teratomas; an underlying trend is that pediatric cancers tend to have a nonepithelial origin, originating from stem or progenitor cells during a particular time window (third question: what makes them diverge in the first place? how does the time window affect their phenotype/prognosis?).&lt;/p&gt;
+
+&lt;p&gt;On the other hand, adult cancers are generally of epithelial origin (carcinomas apparently account for 90% of cancers). This seems to be related to the higher turnover in these tissues, as they tend to interface with the environment. The most common adult cancers are in the lung, prostate, breast, colon, and pancreas, and sensibly, lung and colon cancers are associated with environmental stressors – most lung cancer cases are related to smoking, and most colon cancer cases are preceded by inflammatory gut problems. I am not sure why skin cancers aren’t as high up. Instead we have prostate and breast cancer, which can be categorized as the hormonally-driven cancers. And pancreatic cancer, which is just so insidious that despite relatively low incidence, its high mortality puts it up there.&lt;/p&gt;
+
+&lt;p&gt;There are different treatment/intervention considerations for pediatric versus adult cancers, particularly given their different etiologies. For neuroblastomas in particular, it is expected that some will &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5920563/&quot;&gt;spontaneously regress&lt;/a&gt;, and no intervention is needed (‘Did I really have cancer when I was a baby mum?’, ‘Yes don’t worry, you grew out of it honey.’). And because pediatric cancers tend to arise an earlier developmental time window (as early as !), these cancer cells tend to retain fetus-specific antigens that are (relatively) absent from postnatal tissues, so you can easily target them. 
+Pediatric cancers tend to have lower recurrence but have a higher concern for long-term side effects, mostly because they’re still developing, but also that their cancers tend to be treated more aggressively (fourth question: why?).&lt;/p&gt;
+
+&lt;p&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6631320/
+https://www.annualreviews.org/doi/full/10.1146/annurev-cancerbio-070620-091632&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;immuno-oncology: how much of cancer incidences involve oversight/dysregulation of the immune system? and other higher-level regulatory mechanisms (i.e. metabolism?)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;somatic mutations in skin paper&lt;/p&gt;
+
+&lt;p&gt;acute infection&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;how do various cancer treatments purportedly work?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The main treatment approaches to cancer seem to be: surgery, chemotherapy, and radiation. Actual treatments seems to often be some combination of them. Somehow, surgery and radiation seems sufficiently self-explanatory so I’ll focus on how various chemotherapies work.&lt;/p&gt;
+
+&lt;p&gt;novel approaches
+I guess immunotherapy isn’t established enough to make it to standard practice considerations. But I think it is most intriguing.&lt;/p&gt;
+
+&lt;p&gt;Yet for all the local inflammation in tumours, in many cases the overall innate immunity of the host is blunted.&lt;/p&gt;
+
+&lt;p&gt;signalling confusion – can there be a cytokine/signaling reset like in atrial fibrillation&lt;/p&gt;
+
+&lt;p&gt;on spontaneous regression: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8271173/
+acute infection&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;are there underlying principles regarding the types of cancers that tend to arise from the different tissue/organ systems?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;carcinomas/epithelial; envrionmental insults and turnover 
+why not skin? but colonic (inflamamtion?)
+tumors as wounds that never heal
+inflammation as preventing apoptosis, facilitating accumulation of dna damage?&lt;/p&gt;
+
+&lt;p&gt;chronic inflammation causes oxidative stress and dna damage&lt;/p&gt;
+
+&lt;p&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10038208/ metabolic reprogramming in sepsis
+immune paralysis: hyperinflammation and immunosuppression
+hyperinflammation; oxphos -&amp;gt; aerobic glycolysis -&amp;gt; lactic acid -&amp;gt; immunosuppression (fao)
+“Therefore, limiting the glycolysis pathway can reduce organ damage caused by an “inflammation storm” in the early stage of sepsis.”
+gpr65 and glycolysis?
+in dss, prevents inflammatory response if the gpr65 kos don’t reprogram to glycolysis
+higher inflammatory markers in gpr65 ko at baseline; low ph detection inhibits cytokine release; higher functional innate immunity? or lower/weaker inflammatory cascade?&lt;/p&gt;
+
+&lt;p&gt;https://www.sciencedirect.com/science/article/pii/S2352304221001148#:~:text=Acute%20inflammation%20is%20usually%20called,exerts%20an%20anti%2Dcancer%20function.
+“Therefore, the essence of inflammation-targeting cancer therapy is how to accurately identify the type of inflammation and selectively promote cancer-inhibiting inflammation and inhibit cancer-promoting inflammation.”&lt;/p&gt;
+
+&lt;p&gt;lowered ecm/cell interactions? 
+causes increased mutation? or epigenetic&lt;/p&gt;
+
+&lt;p&gt;lung (smoking, 85 of cases)&lt;/p&gt;
+
+&lt;p&gt;breast/prostate (hormonal? why?)
+hormones control rate of cell division
+but why is this such a relatively fragile process? 
+what about other controls of growth, i.e. hgh, diabetes/obesity/metabolic disorders&lt;/p&gt;
+
+&lt;p&gt;diabetes yes&lt;/p&gt;
+
+&lt;p&gt;obesity due to inflammation&lt;/p&gt;
+
+&lt;p&gt;deadliest cancers/lowest survival rate&lt;/p&gt;
+
+&lt;p&gt;pancreatic cancer, exocrine (make digestive enzymes) – hard to detect early, don’t respond as well to commonly used therapies, why?
+brain (presuming hard to treat bc of location)
+small cell lung cancer
+mesotheliomas, 
+gallbladder
+esophageal&lt;/p&gt;
+
+&lt;p&gt;by organ, vs by subtype
+i.e. cell type of origin&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;why do larger animals not have a higher rate of cancer?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ve actually come across an answer to this before, but I apparently didn’t learn it well because the vague answer in my head doesn’t feel fully coherent. It might’ve been something related to cancer having difficulty taking over the greater mass of a larger organism.(ah, my memory is excellent, it was from an episode of &lt;a href=&quot;https://www.youtube.com/watch?v=D1HFP84RXak&amp;amp;ab_channel=SciShow&quot;&gt;SciShow&lt;/a&gt;, and the concept I’m thinking of is hypertumors –  it seems like it’s a controversial hypothesis though.)&lt;/p&gt;
+
+&lt;p&gt;This question seems encompassed by &lt;a href=&quot;https://en.wikipedia.org/wiki/Peto%27s_paradox&quot;&gt;Peto’s Paradox&lt;/a&gt;, on the observation that the incidence of cancer between species doesn’t correspond to their number of cells or lifespan.&lt;/p&gt;
+
+&lt;p&gt;lower metabolic rate
+evolutionary tradeoff (fertility )
+various mechanisms&lt;/p&gt;
+
+&lt;p&gt;whales, elephants&lt;/p&gt;
+
+&lt;p&gt;In one experiment, laboratory mice were genetically altered to express “always-on” (always on meaning it doesn’t get deactivated by the MDM2 gene) active TP53 tumor antigens,[clarification needed] similar to the ones found in elephants. The mutated mice exhibited increased tumor suppression ability, but also showed signs of premature aging.[22]
+Another study placed p53 under normal regulatory control and did not find signs of premature aging. It is assumed that under its native promoter p53 does not cause premature aging, unlike constitutively expressed p53.[23]&lt;/p&gt;
+
+&lt;p&gt;why premature aging?&lt;/p&gt;
+
+&lt;p&gt;tumor suppressing and premature aging
+anti aging to decrease risk of cancer&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;what can cancer tell you about multicellular self-organization?&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">A friend recently reached out to ask my thoughts on cancer treatments for a terminally ill family member ‘because I know biology’. And I realized that despite all my years in biomedical research, I had very little to say; I know surprisingly little about cancer. I guess it’s kind of like asking a software engineer why your computer doesn’t work.</summary></entry><entry><title type="html">how to not learn a new concept; unexpected machine overconfidence</title><link href="http://localhost:4000/poop/overconfidence" rel="alternate" type="text/html" title="how to not learn a new concept; unexpected machine overconfidence" /><published>2023-09-06T00:00:00-07:00</published><updated>2023-09-06T00:00:00-07:00</updated><id>http://localhost:4000/poop/overconfidence</id><content type="html" xml:base="http://localhost:4000/poop/overconfidence">&lt;p&gt;What happens when we learn something new?&lt;/p&gt;
+
+&lt;p&gt;When you learn a new concept, I think we start by using existing language to describe it. I think it was in Julian Jaynes’ “The Origin of Consciousness in the Breakdown of the Bicameral Mind” that claimed that everything you understand is mostly metaphors upon metaphors. ‘This new thing is like X – but like Y in this aspect’.&lt;/p&gt;
 
 &lt;p&gt;So can we help machines learn a new concept on their own?&lt;/p&gt;
 
@@ -49,7 +185,7 @@
 
 &lt;p&gt;…why is it so confident? so &lt;em&gt;wrongly&lt;/em&gt; confidently??&lt;/p&gt;
 
-&lt;p&gt;I thought that I’d be able to at least tell it that ‘when a certain mix between numbers seems to be becoming a trend, take note’. But it’s just so certain that it’s a number each time that I can’t utilize any sort of uncertainty to flag these letters as ‘odd’. It is currently unteachable – it believes that there is nothing for it to learn here. Nothing is weird, apparently.&lt;/p&gt;
+&lt;p&gt;I thought that I’d be able to at least tell it that ‘when there seems to be a trend in a certain mix between numbers, take note’. But it’s just so certain that it’s a number each time that I can’t utilize any sort of uncertainty to flag these letters as ‘odd’. It is currently unteachable – it believes that there is nothing for it to learn here. Nothing is weird, everything is fine, apparently.&lt;/p&gt;
 
 &lt;p&gt;I think I need to probe deeper into how it arrived at these very confident-looking ‘decisions’. It’s probably a byproduct of the learning mechanism; I’m not sure how difficult of a fix it’d be yet.&lt;/p&gt;
 
@@ -59,7 +195,7 @@
   &lt;li&gt;Then we can actually start with anomaly detection, which was the first bottleneck I thought I’d encounter.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Also since there’s probably updates to image recognition now, I could look into what is currently state of the art and see if I encounter a similar problem.&lt;/p&gt;</content><author><name></name></author><summary type="html">When you learn a new concept, I think we start by using existing language to describe it. I think it was in Julian Jaynes’ “The Origin of Consciousness in the Breakdown of the Bicameral Mind” that claimed that everything you understand is mostly metaphors upon metaphors. ‘This new thing is like X – but like Y in this aspect’.</summary></entry><entry><title type="html">thoughts on “Team of Rivals”</title><link href="http://localhost:4000/poop/lincoln" rel="alternate" type="text/html" title="thoughts on “Team of Rivals”" /><published>2023-08-11T00:00:00-07:00</published><updated>2023-08-11T00:00:00-07:00</updated><id>http://localhost:4000/poop/lincoln</id><content type="html" xml:base="http://localhost:4000/poop/lincoln">&lt;p&gt;I picked up “Team of Rivals” browsing through some shelves one night, in want of a compelling book. It was not completely random. I might’ve been motivated to read a biography when I was writing &lt;a href=&quot;narratives&quot;&gt;‘the practicality of frivolous stories’&lt;/a&gt;, and realizing that biographies would probably similarly inspire one on a narrative of ‘how to be’. And Lincoln in particular has a connotational halo in my head of someone who is of great moral character, a potential reference point for the question of ‘how to be’. I was not wrong. Also this title was primed because it has been on my book list since 2016/03/09 (I have self-indulgent, unnecessarily-detailed documentation), probably from a cardiothoracic surgeon named Nat (while it took more than seven years, the recommendation was not for nought).&lt;/p&gt;
+&lt;p&gt;Also since there’s probably updates to image recognition now, I could look into what is currently state of the art and see if I encounter a similar problem.&lt;/p&gt;</content><author><name></name></author><summary type="html">What happens when we learn something new?</summary></entry><entry><title type="html">thoughts on “Team of Rivals”</title><link href="http://localhost:4000/poop/lincoln" rel="alternate" type="text/html" title="thoughts on “Team of Rivals”" /><published>2023-08-11T00:00:00-07:00</published><updated>2023-08-11T00:00:00-07:00</updated><id>http://localhost:4000/poop/lincoln</id><content type="html" xml:base="http://localhost:4000/poop/lincoln">&lt;p&gt;I picked up “Team of Rivals” browsing through some shelves one night, in want of a compelling book. It was not completely random. I might’ve been motivated to read a biography when I was writing &lt;a href=&quot;narratives&quot;&gt;‘the practicality of frivolous stories’&lt;/a&gt;, and realizing that biographies would probably similarly inspire one on a narrative of ‘how to be’. And Lincoln in particular has a connotational halo in my head of someone who is of great moral character, a potential reference point for the question of ‘how to be’. I was not wrong. Also this title was primed because it has been on my book list since 2016/03/09 (I have self-indulgent, unnecessarily-detailed documentation), probably from a cardiothoracic surgeon named Nat (while it took more than seven years, the recommendation was not for nought).&lt;/p&gt;
 
 &lt;p&gt;I was surprised to find that “Team of Rivals” has many elements of an adventure story, with an underdog protagonist with humble beginnings, being scrappy and traveling long distances to make something of themself, and getting caught up in a war for an idealistic cause. I also associate ‘world building’ with fiction, so I was surprised to notice that here too has elements of world building that contextualize these characters. Though one thing “Team of Rivals” more effectively communicates is the prevalence of pestilence; the deaths of family and friends due to epidemics almost seem routine – I am now more salient of the impact of 20th century medicine. Otherwise, this is just a smaller, quaint world, a setting adjacent to adventure/steampunk stories, where there is greater sincerity in politics, more public involvement in politics, more willingness to stuff people on mattresses on pool tables whenever there is a large event, more bed sharing in general (there seems to be not enough beds), public accessibility to the White House and the President, more intimate male relationships where they write each other ardent letters of appreciation, and more letter writing in general (at least among our cast of characters). In the way I imagine old people reminisce about the times they memorized their loved ones’ phone numbers, I reminisce about the times where you could recognize your friends’ and families’ handwriting; there’s a certain romanticism to it. But at least it’s not all you have left of them.&lt;/p&gt;
 
@@ -144,7 +280,7 @@
 
 &lt;p&gt;I suspect that independent thinking, ironically, is best done with the help of others. Graham does note this, that you should find independent-thinking friends to talk to, but I think it’s moreso framed in the context of being exposed to unconventional thinking.&lt;/p&gt;
 
-&lt;p&gt;But I think if you’re anything like me, a particular value of friends is so that your independent thinking doesn’t take a bad turn. In the end, reality is rather local, and who you are, how you perceive, is shaped by those near you.&lt;/p&gt;
+&lt;p&gt;But I think if you’re anything like me, a particular value of friends is so that your attempt at independent thinking doesn’t take a bad turn. In the end, reality is rather local, and who you are, how you perceive, is shaped by those near you.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;../documents/i_at_the_center.png&quot; title=&quot;I at the Center&quot; style=&quot;width=&amp;quot;400&amp;quot;; height:600px;&quot; /&gt;&lt;/center&gt;
 
@@ -328,54 +464,4 @@ The takeaway is, if your poop is getting scooped, find pastures elsewhere. Your 
 &lt;p&gt;If you watch videos and will die eventually, you should &lt;a href=&quot;https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en&quot;&gt;download video speed controller&lt;/a&gt;.
 If you think our lack of speed is embarrassing (see Fig. 1), you should &lt;a href=&quot;https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en&quot;&gt;download video speed controller&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Video speed controller has changed more lives than the &lt;a href=&quot;https://dll110.github.io/eat/&quot;&gt;texts I learned to cut a pdf for&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">highlights from “Dirk Gently’s Holistic Detective Agency”</title><link href="http://localhost:4000/poop/gently" rel="alternate" type="text/html" title="highlights from “Dirk Gently’s Holistic Detective Agency”" /><published>2022-10-19T00:00:00-07:00</published><updated>2022-10-19T00:00:00-07:00</updated><id>http://localhost:4000/poop/gently</id><content type="html" xml:base="http://localhost:4000/poop/gently">&lt;p&gt;&lt;img src=&quot;../documents/a_trace_of_the_true_self_exists_in_the_false_self.jpeg&quot; title=&quot;&apos;a trace of the true self exists in the false self&apos;&quot; style=&quot;width:600px;height:400px;float: right;&quot; /&gt; 
-[finished 2022/10/19]
-&lt;br /&gt;
-&lt;br /&gt;
-“…&lt;a href=&quot;https://www.youtube.com/watch?v=r30D3SW4OVw&quot;&gt;Ravel’s Bolero&lt;/a&gt; flouted out of eight perfectly matched speakers with fine-meshed matt-black grilles.” (48)
-&lt;br /&gt;&lt;/p&gt;
-&lt;li&gt;the first time I&apos;ve seen this piece referenced in a book&lt;/li&gt;
-&lt;p&gt;&lt;br /&gt;
-“The term ‘holistic’ refers to my conviction that what we are concerned with here is the fundamental interconnectedness of all things.’ (121)
-&lt;br /&gt;
-&lt;br /&gt;
-“…don’t you understand that we need to be childish in order to understand? Only a child sees things with perfect clarity, because it hasn’t developed all those filters which prevent us from seeing things that we don’t expect to see.” (183)
-&lt;br /&gt;&lt;/p&gt;
-&lt;li&gt;Adams supports my case for forgetting +1&lt;/li&gt;
-&lt;p&gt;&lt;br /&gt;
-“The thing is that your memory doesn’t actually get any bigger, and a lot of stuff just falls out. So you see, the major difference between you and me is not how much I know, but how much I’ve forgotten.” (209)
-&lt;br /&gt;&lt;/p&gt;
-&lt;li&gt;Adams supports my case for forgetting +1&lt;/li&gt;
-&lt;p&gt;&lt;br /&gt;
-“He insituted this, er, Chair of Chronology to see if there was any particular reason why one thing happened after another and if there was any way of stopping it. Since the answers to the three questions were, I knew immediately, yes, no, and maybe, I realized I could then take the rest of my career off.” (15)
-&lt;br /&gt;&lt;/p&gt;
-&lt;li&gt;I would also like a Chair where I could take the rest of my career off and putz about. 
-&lt;li&gt;Spoiler: &lt;p style=&quot;color:white&quot;&gt;The missing third question is the first question: &quot;...if it is possible to move backward in time, or something of that kind?&quot; (204)&lt;/p&gt;&lt;/li&gt;
----
-&lt;br /&gt;
-&lt;br /&gt;
-Douglas Adams writes like he learned English as a second language -- his lack of cliche phrasing and metaphors makes one double-take but there is nothing technically wrong. In fact, it&apos;s better. Perhaps &lt;a href=&quot;https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/&quot;&gt;Orwell&lt;/a&gt; would approve. Some verbal pirouettes:
-&lt;br /&gt;
-&lt;br /&gt;
-“Well,” said Reg, in a loudly confidential whisper, as if introducing the subject of nipple-piercing in a nunnery, “I hear you’ve suddenly done very well for yourself, at last, hmmm?” (15)
-&lt;br /&gt;
-&lt;br /&gt;
-“Some people pick their noses, others habitually beat up old ladies on the streets. Reg’s habit was a harmless if peculiar one – an addiction to childish conjuring tricks.” (16)
-&lt;br /&gt;
-&lt;br /&gt;
-“...a topic that fascinated the cashier not at all.”
-&lt;br /&gt;
-&lt;br /&gt;
-“It was an older, wiser Monk now, and had put childish things behind it. Pink valleys, hermaphrodite tables, these were all natural stages through which one had to pass on the path to true enlightenment.” (33)
-&lt;br /&gt;
-&lt;br /&gt;
-“he wore…a red-checked shirt which failed entirely to harmonize with the suit, and a green striped tie which refused to speak with either of them.” (122)
-&lt;br /&gt;
-&lt;br /&gt;
-“He put some more cold pizza into his face.” (128)
-&lt;br /&gt;
-&lt;br /&gt;
-“The electric monk’s day was going tremendously well and he broke into an excited gallop. That is to say that, excitedly, he spurred his horse to a gallop and, unexcitedly, his horse broke into it.” (188)
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;/li&gt;</content><author><name></name></author><summary type="html">[finished 2022/10/19] “…Ravel’s Bolero flouted out of eight perfectly matched speakers with fine-meshed matt-black grilles.” (48) the first time I&apos;ve seen this piece referenced in a book “The term ‘holistic’ refers to my conviction that what we are concerned with here is the fundamental interconnectedness of all things.’ (121) “…don’t you understand that we need to be childish in order to understand? Only a child sees things with perfect clarity, because it hasn’t developed all those filters which prevent us from seeing things that we don’t expect to see.” (183) Adams supports my case for forgetting +1 “The thing is that your memory doesn’t actually get any bigger, and a lot of stuff just falls out. So you see, the major difference between you and me is not how much I know, but how much I’ve forgotten.” (209) Adams supports my case for forgetting +1 “He insituted this, er, Chair of Chronology to see if there was any particular reason why one thing happened after another and if there was any way of stopping it. Since the answers to the three questions were, I knew immediately, yes, no, and maybe, I realized I could then take the rest of my career off.” (15) I would also like a Chair where I could take the rest of my career off and putz about. Spoiler: The missing third question is the first question: &quot;...if it is possible to move backward in time, or something of that kind?&quot; (204) --- Douglas Adams writes like he learned English as a second language -- his lack of cliche phrasing and metaphors makes one double-take but there is nothing technically wrong. In fact, it&apos;s better. Perhaps Orwell would approve. Some verbal pirouettes: “Well,” said Reg, in a loudly confidential whisper, as if introducing the subject of nipple-piercing in a nunnery, “I hear you’ve suddenly done very well for yourself, at last, hmmm?” (15) “Some people pick their noses, others habitually beat up old ladies on the streets. Reg’s habit was a harmless if peculiar one – an addiction to childish conjuring tricks.” (16) “...a topic that fascinated the cashier not at all.” “It was an older, wiser Monk now, and had put childish things behind it. Pink valleys, hermaphrodite tables, these were all natural stages through which one had to pass on the path to true enlightenment.” (33) “he wore…a red-checked shirt which failed entirely to harmonize with the suit, and a green striped tie which refused to speak with either of them.” (122) “He put some more cold pizza into his face.” (128) “The electric monk’s day was going tremendously well and he broke into an excited gallop. That is to say that, excitedly, he spurred his horse to a gallop and, unexcitedly, his horse broke into it.” (188)</summary></entry></feed>
+&lt;p&gt;Video speed controller has changed more lives than the &lt;a href=&quot;https://dll110.github.io/eat/&quot;&gt;texts I learned to cut a pdf for&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

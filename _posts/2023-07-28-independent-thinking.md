@@ -44,7 +44,7 @@ And somehow it was grounding to get an example that it is normal to have doubts,
 
 I suspect that independent thinking, ironically, is best done with the help of others. Graham does note this, that you should find independent-thinking friends to talk to, but I think it's moreso framed in the context of being exposed to unconventional thinking. 
 
-But I think if you're anything like me, a particular value of friends is so that your independent thinking doesn't take a bad turn. In the end, reality is rather local, and who you are, how you perceive, is shaped by those near you.
+But I think if you're anything like me, a particular value of friends is so that your attempt at independent thinking doesn't take a bad turn. In the end, reality is rather local, and who you are, how you perceive, is shaped by those near you.
 
 <center><img src="../documents/i_at_the_center.png" title="I at the Center" style='width="400"; height:600px;'/></center>
 
