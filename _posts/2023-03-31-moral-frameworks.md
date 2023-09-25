@@ -12,13 +12,17 @@ the case for confronting the taboos
 why my morals are the way they are
 or, why my morals are the way they are
 
-Sometimes I realize that I have nice things without really knowing how I got them, so I then feel compelled to try to figure out how I managed it, in order to be able to give myself advice in case I ever lost them.  
+Sometimes I realize that I have nice things without really knowing how I got them, so I then feel compelled to try to figure out how I managed it, in order to be able to give myself advice in case I ever lost them, somehow.  
 
-I think the first time I thought along these lines was wondering why I have good friends back in college. But currently I want to dissect why my morals are the way they are. Partly because they make so much sense to me that I’m not sure why there aren’t more people with ths framework. So let me try to lay it out legibly, so that divergences could be pointed out explicitly. [recent events with david]
+I think the first time I thought along these lines was in the beginning of college, wondering why I have unusually good friends (maybe related to my social interfacing; draft?). But here I want to dissect why my morals are the way they are. Partly because they make so much sense to me that I’m not sure why there aren’t more people with ths framework. So let me try to lay it out legibly, so that divergences can be pointed out explicitly. [recent events with david]
 
+My rough line of thinking, as far as I remember it:
 
-It all started with the question, ironically, of why people believe different things than me. I was in high school, having become fascinated with the explanatory power of evolutionary theory, and inevitably stumbled across Creationism. In the pursuit of understanding religion, 
+It tarted with the question, ironically, of why people believe different things than me. I was in high school, having become fascinated with the explanatory power of evolutionary theory, and inevitably stumbled across Creationism. In the pursuit of understanding religion, 
 
+(I don't know how I manage to both evoke the impression that I'm very nonthreatening and most likely to be a serial killer -- I guess I'd be pretty successful)
+
+being smart for the mere reason of not having to deal with strong emotions/intuitions to fill in the gaps 
 
 on free will: the difficulty of choosing your compulsions
 christian deconversion, not being able to choose what is compelling
