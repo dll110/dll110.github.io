@@ -3,7 +3,9 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
-<p><small><i>{{ page.date |  date: "%Y %B %e" }}</i></small></p>
+<p><small><i>{{ page.date |  date: "date initiated: %Y %B %e" }}</i></small>
+<br>
+  <small><i>{{ page.date_updated |  date: "last updated: %Y %B %e" }}</i></small></p>
 
 <div class="post">
 

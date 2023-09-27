@@ -1,10 +1,12 @@
 ---
 layout: post
-title: how to not learn a new concept; unexpected machine overconfidence
+title: how to not learn a new concept
 permalink: /poop/overconfidence
 date: 2023/09/06
 published: true
 ---
+
+_(or, unexpected machine overconfidence)_
 
 What happens when we learn something new? 
 

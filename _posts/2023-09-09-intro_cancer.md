@@ -1,11 +1,11 @@
 ---
 layout: post
-title: some forays around cancer
+title: some nosing around cancer
 permalink: /poop/intro_cancer
 date: 2023/09/09
+date_updated: 2023/09/25
 published: true
 ---
-
 
 A friend recently reached out to ask my thoughts on cancer treatments for a terminally ill family member 'because I know biology'. And I realized that despite all my years in biomedical research, I had very little to say; I know surprisingly little about cancer. I guess it's kind of like asking a software engineer why your computer doesn't work. 
 
