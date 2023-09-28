@@ -1,48 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-27T02:25:10-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">build a cathedral</title><link href="http://localhost:4000/poop/cathedrals" rel="alternate" type="text/html" title="build a cathedral" /><published>2023-09-14T00:00:00-07:00</published><updated>2023-09-14T00:00:00-07:00</updated><id>http://localhost:4000/poop/cathedrals</id><content type="html" xml:base="http://localhost:4000/poop/cathedrals">&lt;p&gt;A friend once introduced me as someone who ‘is unusually poor at modeling other people but understands herself unusually well’. So I suspect that this will not be broadly applicable, but if it helps even one, it will be a success.&lt;/p&gt;
-
-&lt;p&gt;It has yet again come to my attention that many of my peers are still fixated on relative intelligence – maybe this includes you. It is understandable; intelligence is significant currency in these social circles.&lt;/p&gt;
-
-&lt;p&gt;But I’m of the thought that intelligence is kind of like happiness and current events, in that, despite the hubbub, nothing bad happens if you stop actively thinking about it. In fact, not thinking about it generally makes life better, maybe because there is little to no effective control knobs at this level.&lt;/p&gt;
-
-&lt;p&gt;Because, what is ‘intelligence’ anyway?&lt;/p&gt;
-
-&lt;p&gt;‘Intelligence’ is one of the nebulous words that is full of conflation, and there is at least two connotations worth distinguishing for our purpose: 
-1) giftedness, quick-witted, witty; an innate trait&lt;/p&gt;
-
-&lt;p&gt;2) studious, disciplined, well-read; a learned trait&lt;/p&gt;
-
-&lt;p&gt;What if you are neither of these things? What if you are average, a mean or median, who cares – maybe below average, lazy, curiously bereft of common sense, undistinguished, a platonic ideal of an idiot, etc? Poor, poor you, what are you goinng to do?&lt;/p&gt;
-
-&lt;p&gt;Some seem to wallow, resigned to an uninspired life – this is unexciting. 
-Others try to fake it, and invest their efforts into signaling intelligence without substance to back it. Besides sounding stressful, this is just ugly.&lt;/p&gt;
-
-&lt;p&gt;I say: Build a cathedral.&lt;/p&gt;
-
-&lt;p&gt;A cathedral, as in an awe-inspiring structure, built of from a marriage of spiritual ideals and inspired engineering, a concrete implementation of abstract ideals, of fractalish details, a curation of art and design.&lt;/p&gt;
-
-&lt;p&gt;A cathedral, as in a kludgey assemblage of abstractions, frameworks and heuristics to navigate the world, containing after-thought extensions, winding pathways, and unexpected backdoors.&lt;/p&gt;
-
-&lt;p&gt;But, a cathedral that is your own, and you are its chief architect.&lt;/p&gt;
-
-&lt;p&gt;I only stumbled across it accidentally, and was indignant that adults didn’t tell me about it and I almost missed it. But now, as an experienced adtult, it seems that most adults don’t know about it.&lt;/p&gt;
-
-&lt;p&gt;I think it is alluded to. This is what independent thinking is, as I understand it.&lt;/p&gt;
-
-&lt;p&gt;But I do not think it is discussed enough as a thing you can do. Or, I’ve yet to see it discussed explicitly. Perhaps it’s like a cliche, where you it makes sense when you first encounter it, but you don’t quite realize how superficial your interpretation is until you obtain the right perspective, and then you &lt;em&gt;understand&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;For me, it began with “The Selfish Gene”. Something shifted when I realized it’s not just about accurately embedding information in your head – there is such thing as better arrangements of information. This was the start of a concept I call ‘mental interior design’, what I use to reference how you can curate and organize how you think about things; reading is an excellent way to go ‘shopping’ for improved tools and objects. It took years to be able to first try and put this shift into words: I first settled on ‘thinking about thinking’.&lt;/p&gt;
-
-&lt;p&gt;But this is not enough to have a cathedral.&lt;/p&gt;
-
-&lt;p&gt;Maybe it’s when you hit a critical point, that no one talks about, where backdoors and shorcuts between ideas between different domains begin to form. And then you begin to see coherence, and you begin to hope for a theory of everything. Or maybe it’s when you realize that science is not so different from art, that ‘all models are imperfect, but some are useful’ (or beautiful).&lt;/p&gt;
-
-&lt;p&gt;It will take time; I do not know of a shortcut.&lt;/p&gt;
-
-&lt;p&gt;But it is a possible path, it is beautiful, and I recommend it highly.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;I happened to be reading ‘What Algorithms Want’, and somehow we have slipped into using the same concrete term to reference an abstract concept.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">A friend once introduced me as someone who ‘is unusually poor at modeling other people but understands herself unusually well’. So I suspect that this will not be broadly applicable, but if it helps even one, it will be a success.</summary></entry><entry><title type="html">some nosing around cancer</title><link href="http://localhost:4000/poop/intro_cancer" rel="alternate" type="text/html" title="some nosing around cancer" /><published>2023-09-09T00:00:00-07:00</published><updated>2023-09-09T00:00:00-07:00</updated><id>http://localhost:4000/poop/intro_cancer</id><content type="html" xml:base="http://localhost:4000/poop/intro_cancer">&lt;p&gt;A friend recently reached out to ask my thoughts on cancer treatments for a terminally ill family member ‘because I know biology’. And I realized that despite all my years in biomedical research, I had very little to say; I know surprisingly little about cancer. I guess it’s kind of like asking a software engineer why your computer doesn’t work.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-27T22:39:20-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">some nosing around cancer</title><link href="http://localhost:4000/poop/intro_cancer" rel="alternate" type="text/html" title="some nosing around cancer" /><published>2023-09-09T00:00:00-07:00</published><updated>2023-09-09T00:00:00-07:00</updated><id>http://localhost:4000/poop/intro_cancer</id><content type="html" xml:base="http://localhost:4000/poop/intro_cancer">&lt;p&gt;A friend recently reached out to ask my thoughts on cancer treatments for a terminally ill family member ‘because I know biology’. And I realized that despite all my years in biomedical research, I had very little to say; I know surprisingly little about cancer. I guess it’s kind of like asking a software engineer why your computer doesn’t work.&lt;/p&gt;
 
 &lt;p&gt;Nonetheless, it’s an interesting gap (chasm?) in knowledge, and unsurprising: Off the top of my head, I’ve only read two books about cancer: “Emperor of All Maladies” and “The Selfish Cell” – so let’s rectify that a bit.&lt;/p&gt;
 
@@ -519,54 +475,41 @@ We think it’s important to strive for global coherency in yourself and present
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;em&gt;questions and answers solicited, &lt;a href=&quot;https://docs.google.com/document/d/1ucoRxBOt1kkWkw0vaB1TYxA93SZ9yT2aTwouTgffBPk/edit?usp=sharing&quot;&gt;kludgey comment-able form here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A friend recently introduced me to “the paradox of inquiry”, specifically the idea that ‘questions came from knowledge that your soul had but forgot and is trying to remember’. So maybe I have a lot of questions because I’ve forgotten so much.</summary></entry><entry><title type="html">highlights from “Dirk Gently’s Holistic Detective Agency”</title><link href="http://localhost:4000/poop/gently" rel="alternate" type="text/html" title="highlights from “Dirk Gently’s Holistic Detective Agency”" /><published>2022-10-19T00:00:00-07:00</published><updated>2022-10-19T00:00:00-07:00</updated><id>http://localhost:4000/poop/gently</id><content type="html" xml:base="http://localhost:4000/poop/gently">&lt;p&gt;&lt;img src=&quot;../documents/a_trace_of_the_true_self_exists_in_the_false_self.jpeg&quot; title=&quot;&apos;a trace of the true self exists in the false self&apos;&quot; style=&quot;width:600px;height:400px;float: right;&quot; /&gt; 
-[finished 2022/10/19]
+&lt;p&gt;&lt;em&gt;questions and answers solicited, &lt;a href=&quot;https://docs.google.com/document/d/1ucoRxBOt1kkWkw0vaB1TYxA93SZ9yT2aTwouTgffBPk/edit?usp=sharing&quot;&gt;kludgey comment-able form here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A friend recently introduced me to “the paradox of inquiry”, specifically the idea that ‘questions came from knowledge that your soul had but forgot and is trying to remember’. So maybe I have a lot of questions because I’ve forgotten so much.</summary></entry><entry><title type="html">on being scoopable</title><link href="http://localhost:4000/poop/scoop" rel="alternate" type="text/html" title="on being scoopable" /><published>2022-10-19T00:00:00-07:00</published><updated>2022-10-19T00:00:00-07:00</updated><id>http://localhost:4000/poop/scoopable</id><content type="html" xml:base="http://localhost:4000/poop/scoop">&lt;p&gt;I attended a number of seminars this week, and a number of them self-consciously joked about being scooped. This is not really frequency illusion – I’m pretty sure it’s a cultural norm/meme. I’ve never really understood it though. Wouldn’t it just be validation/consilience that you’re on the right track? And that means you can get your curiosities solved without doing the work! You can turn your attention to the other things you’re interested in.
 &lt;br /&gt;
 &lt;br /&gt;
-“…&lt;a href=&quot;https://www.youtube.com/watch?v=r30D3SW4OVw&quot;&gt;Ravel’s Bolero&lt;/a&gt; flouted out of eight perfectly matched speakers with fine-meshed matt-black grilles.” (48)
-&lt;br /&gt;&lt;/p&gt;
-&lt;li&gt;the first time I&apos;ve seen this piece referenced in a book&lt;/li&gt;
-&lt;p&gt;&lt;br /&gt;
-“The term ‘holistic’ refers to my conviction that what we are concerned with here is the fundamental interconnectedness of all things.’ (121)
+Take it from someone who’s been scooped, of sorts:
 &lt;br /&gt;
 &lt;br /&gt;
-“…don’t you understand that we need to be childish in order to understand? Only a child sees things with perfect clarity, because it hasn’t developed all those filters which prevent us from seeing things that we don’t expect to see.” (183)
-&lt;br /&gt;&lt;/p&gt;
-&lt;li&gt;Adams supports my case for forgetting +1&lt;/li&gt;
-&lt;p&gt;&lt;br /&gt;
-“The thing is that your memory doesn’t actually get any bigger, and a lot of stuff just falls out. So you see, the major difference between you and me is not how much I know, but how much I’ve forgotten.” (209)
-&lt;br /&gt;&lt;/p&gt;
-&lt;li&gt;Adams supports my case for forgetting +1&lt;/li&gt;
-&lt;p&gt;&lt;br /&gt;
-“He insituted this, er, Chair of Chronology to see if there was any particular reason why one thing happened after another and if there was any way of stopping it. Since the answers to the three questions were, I knew immediately, yes, no, and maybe, I realized I could then take the rest of my career off.” (15)
-&lt;br /&gt;&lt;/p&gt;
-&lt;li&gt;I would also like a Chair where I could take the rest of my career off and putz about. 
-&lt;li&gt;Spoiler: &lt;p style=&quot;color:white&quot;&gt;The missing third question is the first question: &quot;...if it is possible to move backward in time, or something of that kind?&quot; (204)&lt;/p&gt;&lt;/li&gt;
----
+Around 2019, I went to a talk by Marinka Zitnik and learned about the Stanford SNAP page, where I learned about the TreeOfLife dataset. Later I read Erik Hoel’s emergence paper around the same time, and realized I could apply his measure to the TreeOfLife dataset. Evidence: https://github.com/dll110/treeoflife I never finished it though because it was just a side-hobby (my actual research work had nothing to do with either of these topics directly) and I got distracted by other things.
 &lt;br /&gt;
 &lt;br /&gt;
-Douglas Adams writes like he learned English as a second language -- his lack of cliche phrasing and metaphors makes one double-take but there is nothing technically wrong. In fact, it&apos;s better. Perhaps &lt;a href=&quot;https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/&quot;&gt;Orwell&lt;/a&gt; would approve. Some verbal pirouettes:
+Then last year I came across &lt;a href=&quot;https://academic.oup.com/ib/article/13/12/283/6474503&quot;&gt;“Evolution and emergence: higher order information structure in protein interactomes across the tree of life”&lt;/a&gt; when looking through Michael Levin’s publications:  Pretty much EI-Net + TreeOfLife data. Published by the original EI peeps and Michael Levin – I’d bet they have sound thinking. 
 &lt;br /&gt;
 &lt;br /&gt;
-“Well,” said Reg, in a loudly confidential whisper, as if introducing the subject of nipple-piercing in a nunnery, “I hear you’ve suddenly done very well for yourself, at last, hmmm?” (15)
+Which means I have proof that I have great ideas. A full two years before they published. My intuitions are validated without me having to write up a full paper. And I wouldn’t have gotten such validation if I had actually written it. 
 &lt;br /&gt;
 &lt;br /&gt;
-“Some people pick their noses, others habitually beat up old ladies on the streets. Reg’s habit was a harmless if peculiar one – an addiction to childish conjuring tricks.” (16)
+Of course, it would’ve been an actually cool paper to have under my belt, but that’s more of a resume thing than a personal thing. 
 &lt;br /&gt;
 &lt;br /&gt;
-“...a topic that fascinated the cashier not at all.”
+In “Letters to a Young Scientist”, E.O. Wilson wrote ‘look for a field that is sparsely inhabited; look for a chance to break away, to find a subject you can make your own…shy away from subjects that are receiving a great deal of attention, if it has a glamorous aura, if its practitioners are prizewinners who receive large grants…take a subject instead that interests you and looks promising, where established experts are not yet competing with each other’. (45)
 &lt;br /&gt;
 &lt;br /&gt;
-“It was an older, wiser Monk now, and had put childish things behind it. Pink valleys, hermaphrodite tables, these were all natural stages through which one had to pass on the path to true enlightenment.” (33)
-&lt;br /&gt;
-&lt;br /&gt;
-“he wore…a red-checked shirt which failed entirely to harmonize with the suit, and a green striped tie which refused to speak with either of them.” (122)
-&lt;br /&gt;
-&lt;br /&gt;
-“He put some more cold pizza into his face.” (128)
-&lt;br /&gt;
-&lt;br /&gt;
-“The electric monk’s day was going tremendously well and he broke into an excited gallop. That is to say that, excitedly, he spurred his horse to a gallop and, unexcitedly, his horse broke into it.” (188)
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;/li&gt;</content><author><name></name></author><summary type="html">[finished 2022/10/19] “…Ravel’s Bolero flouted out of eight perfectly matched speakers with fine-meshed matt-black grilles.” (48) the first time I&apos;ve seen this piece referenced in a book “The term ‘holistic’ refers to my conviction that what we are concerned with here is the fundamental interconnectedness of all things.’ (121) “…don’t you understand that we need to be childish in order to understand? Only a child sees things with perfect clarity, because it hasn’t developed all those filters which prevent us from seeing things that we don’t expect to see.” (183) Adams supports my case for forgetting +1 “The thing is that your memory doesn’t actually get any bigger, and a lot of stuff just falls out. So you see, the major difference between you and me is not how much I know, but how much I’ve forgotten.” (209) Adams supports my case for forgetting +1 “He insituted this, er, Chair of Chronology to see if there was any particular reason why one thing happened after another and if there was any way of stopping it. Since the answers to the three questions were, I knew immediately, yes, no, and maybe, I realized I could then take the rest of my career off.” (15) I would also like a Chair where I could take the rest of my career off and putz about. Spoiler: The missing third question is the first question: &quot;...if it is possible to move backward in time, or something of that kind?&quot; (204) --- Douglas Adams writes like he learned English as a second language -- his lack of cliche phrasing and metaphors makes one double-take but there is nothing technically wrong. In fact, it&apos;s better. Perhaps Orwell would approve. Some verbal pirouettes: “Well,” said Reg, in a loudly confidential whisper, as if introducing the subject of nipple-piercing in a nunnery, “I hear you’ve suddenly done very well for yourself, at last, hmmm?” (15) “Some people pick their noses, others habitually beat up old ladies on the streets. Reg’s habit was a harmless if peculiar one – an addiction to childish conjuring tricks.” (16) “...a topic that fascinated the cashier not at all.” “It was an older, wiser Monk now, and had put childish things behind it. Pink valleys, hermaphrodite tables, these were all natural stages through which one had to pass on the path to true enlightenment.” (33) “he wore…a red-checked shirt which failed entirely to harmonize with the suit, and a green striped tie which refused to speak with either of them.” (122) “He put some more cold pizza into his face.” (128) “The electric monk’s day was going tremendously well and he broke into an excited gallop. That is to say that, excitedly, he spurred his horse to a gallop and, unexcitedly, his horse broke into it.” (188)</summary></entry></feed>
+The takeaway is, if your poop is getting scooped, find pastures elsewhere. Your poop is better served fertilizing a new field.&lt;/p&gt;
+
+&lt;ul&gt;
+
+
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I attended a number of seminars this week, and a number of them self-consciously joked about being scooped. This is not really frequency illusion – I’m pretty sure it’s a cultural norm/meme. I’ve never really understood it though. Wouldn’t it just be validation/consilience that you’re on the right track? And that means you can get your curiosities solved without doing the work! You can turn your attention to the other things you’re interested in. Take it from someone who’s been scooped, of sorts: Around 2019, I went to a talk by Marinka Zitnik and learned about the Stanford SNAP page, where I learned about the TreeOfLife dataset. Later I read Erik Hoel’s emergence paper around the same time, and realized I could apply his measure to the TreeOfLife dataset. Evidence: https://github.com/dll110/treeoflife I never finished it though because it was just a side-hobby (my actual research work had nothing to do with either of these topics directly) and I got distracted by other things. Then last year I came across “Evolution and emergence: higher order information structure in protein interactomes across the tree of life” when looking through Michael Levin’s publications: Pretty much EI-Net + TreeOfLife data. Published by the original EI peeps and Michael Levin – I’d bet they have sound thinking. Which means I have proof that I have great ideas. A full two years before they published. My intuitions are validated without me having to write up a full paper. And I wouldn’t have gotten such validation if I had actually written it. Of course, it would’ve been an actually cool paper to have under my belt, but that’s more of a resume thing than a personal thing. In “Letters to a Young Scientist”, E.O. Wilson wrote ‘look for a field that is sparsely inhabited; look for a chance to break away, to find a subject you can make your own…shy away from subjects that are receiving a great deal of attention, if it has a glamorous aura, if its practitioners are prizewinners who receive large grants…take a subject instead that interests you and looks promising, where established experts are not yet competing with each other’. (45) The takeaway is, if your poop is getting scooped, find pastures elsewhere. Your poop is better served fertilizing a new field.</summary></entry><entry><title type="html">an ode to video speed controller</title><link href="http://localhost:4000/eat/with_speed" rel="alternate" type="text/html" title="an ode to video speed controller" /><published>2022-10-19T00:00:00-07:00</published><updated>2022-10-19T00:00:00-07:00</updated><id>http://localhost:4000/eat/with_speed</id><content type="html" xml:base="http://localhost:4000/eat/with_speed">&lt;p&gt;&lt;img src=&quot;../documents/optimal speed.png&quot; alt=&quot;optimal speed&quot; style=&quot;width:300px;height:400px;float: right;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’ve ever not comprehended what someone was saying because they were talking too slow and you forgot the first half of their sentence, you should &lt;a href=&quot;https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en&quot;&gt;download video speed controller&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’ve been avoiding watching things because the inability to control information/interestingness density (like you can do with reading) is frustrating, you should &lt;a href=&quot;https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en&quot;&gt;download video speed controller&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’re underestimating the ability of your mind to adapt to and normalize speed changes, you should &lt;a href=&quot;https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en&quot;&gt;download video speed controller&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you watch videos and will die eventually, you should &lt;a href=&quot;https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en&quot;&gt;download video speed controller&lt;/a&gt;.
+If you think our lack of speed is embarrassing (see Fig. 1), you should &lt;a href=&quot;https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en&quot;&gt;download video speed controller&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Video speed controller has changed more lives than the &lt;a href=&quot;https://dll110.github.io/eat/&quot;&gt;texts I learned to cut a pdf for&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

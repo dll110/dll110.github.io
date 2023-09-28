@@ -1,9 +1,10 @@
 ---
 layout: post
-title: build a cathedral
+title: how to build a cathedral
 permalink: /poop/cathedrals
 date: 2023/09/14
-published: true
+date_updated: 2023/09/27
+published: false
 ---
 
 A friend once introduced me as someone who 'is unusually poor at modeling other people but understands herself unusually well'. So I suspect that this will not be broadly applicable, but if it helps even one, it will be a success.
@@ -16,7 +17,6 @@ Because, what is 'intelligence' anyway?
 
 ‘Intelligence’ is one of the nebulous words that is full of conflation, and there is at least two connotations worth distinguishing for our purpose: 
 1) giftedness, quick-witted, witty; an innate trait
-
 2) studious, disciplined, well-read; a learned trait
 
 What if you are neither of these things? What if you are average, a mean or median, who cares – maybe below average, lazy, curiously bereft of common sense, undistinguished, a platonic ideal of an idiot, etc? Poor, poor you, what are you goinng to do?
