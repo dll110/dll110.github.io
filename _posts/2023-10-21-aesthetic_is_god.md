@@ -3,7 +3,7 @@ layout: post
 title: your aesthetic is God
 permalink: /poop/god
 date: 2023/10/21
-date_updated: 2023/10/27
+date_updated: 2023/10/28
 published: true
 ---
 
