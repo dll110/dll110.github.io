@@ -3,6 +3,7 @@ layout: post
 title: how to ask good questions?
 permalink: /poop/good_questions
 date: 2023/04/30
+date_updated: 2023/10/17
 published: true
 ---
 
@@ -27,6 +28,10 @@ What would it take to automate question-asking? How would you automate it? Some 
 
 Why is asking good questions generally easier in a 1:1 setting versus in a group setting? Versus asking a chatbot? Maybe something about the correlation with a tighter feedback loop? 
 
+Bonus: some generally reliable question templates:
+1. Asking for concrete examples/illustrations of an abstract concept
+2. Asking the inverse question i.e. 'what is something _not_?'
+3. Going meta (especially if the topic itself is boring -- ask how it came to be, why it matters, etc)
 
 
 &nbsp;

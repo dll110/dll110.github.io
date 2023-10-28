@@ -1,6 +1,6 @@
 ---
 layout: post
-title: recommended norms for high quality discussions
+title: recommended norms for satisfying discussions
 permalink: /poop/water
 date: 2023/07/20
 published: true
