@@ -43,4 +43,6 @@ This is rather tentative modeling; I am curious how the relatability (or not) to
 
 ---
 
+_Innumerable thanks to O and B._
+
 _comments solicited, [kludgey comment-able form here](https://docs.google.com/document/d/1jF0s0IVLF338Uvgy1RKo4P8roP7ESnwwJGbsBUhwcGQ/edit?usp=sharing)._
