@@ -78,6 +78,8 @@ So perhaps for a future exploration: On building cathedrals, or how to find God.
 
 ---
 
+_Thanks to AG and BT for reading._
+
 Books that contributed to the development of this framework:
 1. ["The Origin of Consciousness in the Breakdown of the Bicameral Mind" (Julian Jaynes)](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072)
 2. ["The Artist's Way" (Juila Cameron)](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252)
