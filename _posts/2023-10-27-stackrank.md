@@ -7,11 +7,11 @@ date_updated: 2023/11/27
 published: true
 ---
 
-For some reason it wasn't obvious, or it wasn't salient that people's differences can be framed as a difference in stack ranking. Technically 'priorities', but somehow this aspect falls to the background with this term, at least for me.
+For some reason, it hadn't been immediately obvious, or it wasn't salient, that people's differences can be framed as a difference in stack ranking. Technically this could just be called 'priorities', but somehow this aspect falls to the background with this term, at least for me.
 
 People rarely disagree that values are good; this is perhaps tautological.
 
-The difference/contention is in the stack rank, of when tradeoffs are inevitable and there are hard decisions to make -- and then, which do you choose?
+The difference/contention is in the stack rank, of when tradeoffs are inevitable and there are hard decisions to make -- and then in such contexts, which do you choose?
 
 The question is often not whether it is important, but whether what is _more_ important. 
 
