@@ -33,12 +33,15 @@ Bonus: ["Is mech interp useful?"](https://www.lesswrong.com/posts/tEPHGZAb63dfq2
 I'm rather surprised that people question this because it is a _lot_ more theoretically tractable than biology; I'd say the main difference is that biology has had much more time to establish itself. My impression is that mech interp is _easier_ than biology, and because biology is accepted as useful despite its logistically difficulties, there's no clear reason to me that mech interp can't get there. 
 
 >A high level concern here is that there might be a lot of neurons which look roughly like french neurons and they can't all be doing the same thing.
+
 I'm reminded of "A thousand brains"'s metaphor of how it's a group of people who know how a city's water system works, that one person does not know all the details on their own, and there is overlapping knowledge such that if one or several people call out sick, the system will not immediately fail. And then in this metaphor, are there useful questions that can then be translated back to a mech interp context? 
 
 >Current work seems very far from being useful (it isn't currently useful) or explaining much what's going on inside of models in key cases. But it's hard to be very confident that a new field won't work! And things can be far from useful, but become useful via slowly becoming more powerful, etc.
+
 This a weird take in my opinion, because this is the character of basic research. I'm obviously biased, but this feels like an overconfidence on known knowns and unknowns, and not enough of what is unknown. This guy sounds like a habitual exploiter, and not familiar with exploratory heuristics. Perhaps an anology would be that this is a similar difference to how a clinician and scientist approach biomedical questions. He is rather top down, interested in applications (AI safety, which I do not yet know how to muster any care about), whereas scientists tend to be more bottom up. 
 
 >Do models plan?
+
 I am very interested in planning by means of the afoementioned anticipatory systems. However, as a first impression, I am not confident it has sufficient ability in that direction for me to be interested in doing a serious dive on it. I associate planning with exploration of counterfactuals, and I am not aware of a mechanism by which LLMs can do thhis. I would guess it would need a 'meta-loop' of modeling its options and a higher-level optimization goal. 
 
 

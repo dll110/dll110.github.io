@@ -1,170 +1,65 @@
 ---
 layout: post
 title: consider building a cathedral
-permalink: /poop/cathedrals
+permalink: /poop/cathedrals2
 date: 2023/09/14
-date_updated: 2023/09/27
-published: false
+date_updated: 2023/12/28
+published: true
 ---
 
 _or, 'how to find god if your mind works close enough to my own'_
 
 
-A friend once introduced me as someone who 'is unusually poor at modeling other people but understands herself unusually well'. And so I really don't know how well this generalizes to others, but over the years, people have experimentally confirmed enough of my various misgivings about mainstream strategies that I've developed some confidence that  I'll venture to say that my inclinations are better than others. And this one is pretty decidedly one of my better ones
+It has yet again come to my attention^1^ that many of my peers are still fixated on relative intelligence -- maybe this includes you, dear reader. It is understandable; intelligence is significant currency in some social circles. But unless you thrive on anxiety or something, this sounds like unnecessary suffering and you should consider trying to switch to my framework.
+
+I’m of the thought that intelligence is kind of like happiness and current events, in that, despite the hubbub, nothing bad happens if you stop actively thinking about it. In fact, not thinking about it generally makes life better, maybe because there seems to be little to no effective control knobs at this level. Because, what is 'intelligence' anyway? 
+
+‘Intelligence’ is one of the nebulous words that is full of conflation, and there is at least two connotations worth distinguishing here for our purpose: 
+1) giftedness, quick-witted, witty; an innate trait
+2) studious, disciplined, well-read; a learned trait
+
+What if you are neither of these things? What if you are average, a mean or median, who cares – maybe below average, lazy, curiously bereft of common sense, undistinguished, a platonic ideal of an idiot, etc? Poor, poor, you, what are you goinng to do?
+
+Some seem to wallow, resigned to an uninspired life -- this is unexciting. Others try to fake it, and invest their efforts into signaling intelligence without substance to back it. This sounds stressful and many kinds of ugly. And just plain hard^2^. I would like to politely shake them and patronizingly ask, '_did you know_ there is another way?' (Jesus died for your sins).
+
+I say: Build a cathedral.
+
+A cathedral, as in an awe-inspiring structure, built of from a marriage of practical ideals and inspired engineering, a concrete implementation of abstract ideals, of fractalish details, a curation of art and design and pretty things. 
+
+A cathedral, as in a kludgey assemblage of abstractions, frameworks and heuristics to navigate the world, containing after-thought extensions, winding pathways, and unexpected backdoors.  
+
+A cathedral that is your own, and you are its chief architect.
+
+Because no one (I don't) really cares how intelligent you are^3^. I think the real question is, are you satisfying your own aesthetic/god? What do you fundamentally care about? 
+
+I only stumbled across it accidentally, and was about mad that I almost missed it and adults didn't tell me about it. But now, as an experienced adult, it appears that most adults just don't know about it.
+
+To be fair, I think it is alluded to. This is related to what independent thinking is, as I understand it.
+
+But I do not think it is discussed enough as a thing you can do. At least, I've yet to see it discussed explicitly. Perhaps it's like a cliche, where you it makes sense when you first encounter it, but you don't quite realize how superficial your interpretation is until you obtain the right perspective, something slides into place, and then you _understand_. 
+
+Several elements that I think are important in understanding it:
+
+1. *Some frameworks are better than others.* For me, it began with “The Selfish Gene”. Something shifted when I realized it’s not just about accurately embedding information in your head – there is such thing as better arrangements of information. This was the start of a concept I call ‘mental interior design’, what I use to reference how you can curate and organize how you think about things; reading is an excellent way to go ‘shopping’ for improved tools and objects. It took years to be able to first try and put this shift into words: I first settled on 'thinking about thinking'. 
+2. *To do the work, to think about thinking, you need introspection.* Planes, trains, and automobiles are great for this. It is a quiet voice, relative to societal expectations and norms; identifying it is a skill to develop. 
+A friend once introduced me as someone who 'is unusually poor at modeling other people but understands herself unusually well'. I wonder if it is related that I don't learn from other people very effectively; I have a much harder time internalizing knowledge that is not extended from an existing part of my own frameworks. I wonder if it's like chronically having software installation issues, and so to reach a semblance of competency, I need to build my own. And of course, my own implementation does worse than the 'professionally' implemented one, but at least it runs.
+God is also sometimes passive, in that information will not generally be freely volunteered, but provided in response to specific questions. Trying to understand god is like doing research, where you need to set up experiments (listen to your own intuition), do them (even if it'll probably lead to failure), and analyze the results. 
+I think this takes you a long way, but this is not enough to have a cathedral. 
+3. *If you go deep enough, there can be isomorphisms between seemingly unrelated domains*
+Maybe it's when you hit a critical point, that no one talks about, where backdoors and shorcuts between ideas between different domains begin to form. And then you begin to see coherence, and you begin to hope for a theory of everything. Or maybe it's when you realize that science is not so different from art, that 'all models are imperfect, but some are useful' (and/or just beautiful). 
 
 
-And since i was indignant no one told me about this, I will cater/here is a homage to my indignant younger self. 
-
-A current hypothesis is that people have trouble finding god because god is a very quiet by default, and peer/external pressure is very loud. In this regard, I had an advantage of being somewhat deaf to external expectations; my own observation felt more real and reliable than 'common sense'. 
-
-The courage to follow your own intuition, even if it'll lead to failure.
-
-Finding god is like doing research.
+I do not think this is for everyone -- there are argubly better uses of your time and attention; it can be uncomfortable, and I do not know of a shortcut. So I suspect that this will not be broadly applicable. But people are compelled to scupt, paint, make music, etc. I think it is a similar kind of compulsion, but with frameworks.
 
 
-
-hobbies/art/writing
-being studious/smart
-what is worth striving for in life?
-
-In middle school, i was anxious about trying to avoid a midlife crisis. 
-And now as I approach 30, I see people with frameworks that look almost certainly subpar, and I am confused people have not similarly taken steps to avoid a trajectory of pain, and so in case a counterfactual version myself also found themslves on this path, here is a potential instructions to get out. 
-
-You are not particularly smart, and people like playing status games. ignore them
-
-People don't usually disagree on values being good, but they vary on the stack ranking. Your priorities are weird, and so some norms will not apply.
-You'll be told that most people don't care about truth, and while that's a rather odd framework, it does explain a lot of things.
-
-Try to understand what you fundamentally care about. 
-What do you want out of life? When you're on deathbed, what would be life you'd be happy to reflect upon? What is the story you want to live? [see narratives]
+But it is a possible path, a scenic path, and I recommend it highly^4^. 
 
 
-
-
+_To my younger self, who felt uncharacteristically indignant that the adults didn't mention this -- this is my attempt to remedy it._
 ---
 
-no one (I don't) cares how intelligent you are. the real question is, are you satisfying your own aesthetic/god?
+1. This time, being privy to a figurative dick-measuring contest. 
+2. I barely needed to contemplate whether or not to go down this path because I'm so inept at BSing that it just wasn't a real option for me.
+3. If they do, they have poor taste and should also probably find god.
+4. It is especially for finding nice and interesting people. 
 
-
-
-I closed the last post with a light directive^1^ to use your aesthetic/god, but it's a rather vague directive. So if you happened to be thinking 'how do you do that weird writer?', that is an excellent question dear reader. I myself discovered it accidentally, and felt something akin to indignant that no one told me about this really cool thing. 
-
-Or maybe they did and I didn't know how to internalize it. I am somewhat suspicious that it's not a coincidence that I have trouble integrating 'common sense'
-
-
-
-I think it is easy to go through the motions and miss the entire point. This is exactly what happened with organized religion and english class for me. But maybe we'll be lucky and end up somewhere interesting. But I'll posit that it is easy in general; the story of scurvy is an intriguing parallel.
-
-
-Either way, when I've found myself with extraordinary luck in stumbling across very nice things (see: [friends]), I feel compelled to try drafting a map to it, in case I ever find myself in a counterfactual reality where I do not have these very nice things. 
-
-
-Here I attempt to compile a useful guide for you post-hoc, which means it may not working going forward.
-cathedral
-
----
-
-
-There seems to be consensus between those close to me that I lack a certain degree of common sense; things that are obvious to others are not obvious to me. In other words, I often come across as an idiot.  
-
-While I'll graciously accept your sympathies, there is a silver lining: some things are obvious to me that don't seem obvious to others -- like how to avoid being unnecessarily stressed about trying to seem smart. Because I run around in circles where people are smart, I guess it's hard to avoid intelligence as a metric of social status. So if you aren't gifted or well-read/sufficiently competent, one option is to fake it, and bs the signals. 
-
-I barely needed to contemplate whether or not to go down this path because I'm so bungling at BSing that it just wasn't a real option for me.   
-
-
----
-
-This recent thread of thought was triggered by the reminder that 'dick-measuring contests', or more generally, that people apparently size each other up to decorate their mental social hierarchy tree, leading to unnecessary heartache/suffering. 
-
-In my circles, these contests are typically around displays of intelligence, generally reflected those who are innately gifted, the studious/self-disciplined/well-read, or both. So a significnt chunk fall into none of these categories are chronically anxious they are not smart enough, and of these, some are . As someone who comfortably navigates interacting with smart people (this is what would be rather embarassing if it turns out I'm actually self-delusional), I would like to politely shake them and patronizingly ask, '_did you know_ there is another way?' (Jesus died for your sins).
-
-You can build a cathedral. 
-
-A cathedral, as in a kludgey assemblage of abstractions, frameworks and heuristics to navigate the world, containing after-thought extensions, winding pathways, and unexpected backdoors. 
-
-An adjacent but colorless/faded/sterile/lifeless term for what I'm trying to gesture to is 'knowledge graph'. A knowledge graph is what your stereotypical medical student might build in their heads, functional but devoid of beauty; Brutalist architecture. 
-
-No, what I'm gesturing to has a greater essence of personal aesthetic, of what one finds beautiful and/or compelling: A cathedral, as in an awe-inspiring structure, built of from a marriage of spiritual ideals and inspired engineering, a concrete implementation of abstract ideals, of fractalish details, a curation of art and design. 
-
-(But neither is it mere art, emotional currents, vibes, psychedelics or whatever, I don't understand those frameworks (yet).)
-
-The key point is that it is _yours_ and you are its chief architect. 
-
-That means, whatever you don't like, you may destroy, and whatever you want for it, you may attempt to build. 
-
-
-II. Cathedrals in society
-
-'Are you sure you know what you're talking about'/'I've never heard of this before'.
-
-Neither have I, until I already had one. 
-
-But once you know what it looks like, you realize it's hidden in plain sight. There are numerous oblique cultural references to it, but it's like a cliche; you think you understand it until you have a specific kind of experience/insight and then you _really_ understand it.
-
-For example, I think it also overlaps with being independent-minded, but most descriptions of it are somewhat dry and vague, in a 'knowledge graph' kind of way; there is not much emphasis on taste. Or it is alluded to superficially, on its outcome rather than the underlying mechanism that drives it. Conspiracy theorists and schizophrenics are also independent minded, but in a socially disapproved way. 
-
-It is something like hard-coding vs soft-coding. Hard coding generally takes external cues, but soft-coding means multiple ways to implement, which means choice, which means aesthetic to tiebreak. 
-
-
-Be curious, they say. Be independent minded, they say. 
-
-
-
-III. a practical guide to building cathedrals
-
-Just kidding. That's rather unhelpfully vague.
-
-But I do think it's hard to give concrete advice a void of people whose minds could work radically (I once had a fun talk with a friend's friend about how our mental worlds are organized, and at the end of the conversation, she asked, 'So, what drugs do you use?'). Organized religions have done an okay job so far, so let's start there:
-
-A practical guide to god/how to find god
-
-it is a quiet voice, and it takes time and effort to notice it. 
-
-one of the commandments: do not let pride ruin things
-
-instead of god, what would go at the top? how to deal with hard decisions?
-the north star, the ultimate tiebreaker: to understand
-
-1. be looking/open
-2. pray; introspection i.e. meditating, writing
-3. go to church/read the bible - i literally went to church
-4. surrendering; coherency/consistency, peace of mind, better at managing uncertainty
-5. keep up your relationship with god; habitual/housekeeping
-
-origin of consciousness
-the artist's way
-
-The Artist's Way is a good place that espouses such ideas, except the things you are assessing as beautiful are algorithms and frameworks. 
-
-a useful framing is that you cannot control your reaction to things, so do not judge yourself there. But you can control the thought after. and it is there that you can enact change
-placing a trigger to change future thought paths, and over time, changing thought ruts. 
-
-reading
-
----
-1. I am not sure what everyone's God is like, and I am not sure if everyone's God is worth following, so I leave it to your discretion. 
-
-I'm not saying that you need to be an idiot for this to be obvious, but I think it helps.  
-
-
----
-
-
-
-
-
-
-
-I don't have great reflexes or a knack for thinking on the fly, so I tend to do a decent amount of pre-planning for situations
-
-
-
-
-1. follow your interests to a certain level of mastery
-2. follow another field of interest to a similar levle of mastery
-3. think about thinking
-3. find isomorphisms between them
-
-even something as 'objective' as scientific models/hypotheses are subejct to 'aesthetic'
-
-self fulfilling prophecies, optimism, meaning, are things you choose and build for yourself. 
