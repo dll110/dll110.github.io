@@ -1,6 +1,6 @@
 ---
 layout: post
-title: recommended norms for satisfying discussions
+title: lightly suggested norms for satisfying discussions (YMMV)
 permalink: /poop/water
 date: 2023/07/20
 published: true
