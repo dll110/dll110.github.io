@@ -20,4 +20,7 @@ Likewise, I could not logically tell you why I like medicine over, say, linguist
 
 The level at which I want to be immersed in medicine can be most feasibly achieved by pursuing it professionally. There is much I am undoubtedly ignorant of, but that’s how it’ll always be. The allure of medicine is that what I see is never all there is. There will always be more to explore and understand.
 
+---
+_Many thanks to BO for their tired but continued support. While it was a failed application, I'm pretty pleased with how it turned out (I was a more terrible writer), and their efforts shall be printed here for posterity._
+
 

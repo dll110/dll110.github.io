@@ -44,3 +44,8 @@ I think the next steps are to:
 2. Then we can actually start with anomaly detection, which was the first bottleneck I thought I'd encounter.
 
 Also since there’s probably updates to image recognition now, I could look into what is currently state of the art and see if I encounter a similar problem. 
+
+Addendum 2024/02/20:
+
+I'm reading the book "The Evolution of Biological Information" and this sentence was reminiscent:
+"The Brain is not confused by the out-of rhythm tones...Instead, these Brains fall into familiar patterns, and issue their (incorrect) verdicts with full confidence." (491)
