@@ -1,15 +1,15 @@
 ---
 layout: post
 title: a case for forgetting (a heretical? case for dying)
+permalink: /poop/forgetfully
 date: 2023/08/03
 date_updated: 2024/04/10
-permalink: /poop/forgetfully
 published: true
 ---
 
-<img src="../documents/twit_morsels.jpeg" alt="snacks" title="snacks" style="width:400px;height:600px;float: right;"> 
+<img src="../documents/twit_morsels.jpeg" alt="snacks" title="snacks" style="width:400px;height:600px;float: right; padding-left: 10px"> 
 
-I have read four sci-fi short stories, and two of them have been produced in the Netflix series “Love, Death, and Robots”. One of them is “Zima Blue”, and as typical of someone who’s 'read the book' (it was a [pdf](../documents/Zima_Blue.pdf)), I have some complaints.
+I have read four sci-fi short stories in recent memory, and two of them have been produced in the Netflix series “Love, Death, and Robots”. One of them is “Zima Blue”, and as typical of someone who’s 'read the book' (it was a [pdf](../documents/Zima_Blue.pdf)), I have some complaints.
 
 They completely omitted the dialogue the journalist had with artist (Zima), on the journalist’s choice to use an infallible AM (augmented memory) device versus a neural implant that functioned like an extension of natural memory: 
 

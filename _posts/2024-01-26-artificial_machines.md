@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI and robotics
+title: superficial thoughts on AI and robotics
 permalink: /poop/artificial_machines
 date: 2024/01/26
 date_updated: 2024/01/26
