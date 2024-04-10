@@ -20,3 +20,5 @@ What are the limitations of AI? Perhaps it parallels the limitations of a comput
 Reminiscent of Judea Pearl's argument in "The Book of Why", it is hard to identify causal models amidst the vast possibility of statistical models if you can't 'do'. And although he argues you can try to infer causlity through observational data (his do-operators), I suspect it can only compensate so much. Toddlers get so much more 'do' data. 
 
 I was at first inclined to write AI _versus_ robotics, but perhaps it should be AI _and_ robotics -- maybe coarsely mapping to the prefrontal cortex, and the rest of the brain. 
+
+Anyway, this is also one of those things not yet fleshed out, but just to note for where my thinking is at this time. 
