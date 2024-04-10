@@ -45,7 +45,7 @@ It was easily memorable because my experience maps to the inverse: With unreliab
 
 >“The thing is that your memory doesn’t actually get any bigger, and a lot of stuff just falls out. So you see, the major difference between you and me is not how much I know, but how much I’ve forgotten.” - (“Dirk Gently”, 209)
 
-Though what I mean to discuss is not mere forgetting, but specifically biased/organized forgetting. Technically, you can be forgetful and not organize but then that's undeniably worse and uninteresting. I mean to talk about forgetting in the context you have things you care about. Someone once asked me why I read so much if I forgot most of it (I can't recall if it was asked or if it was just obvious). I was stumped for a few days, but I arrived at a satisfying answer: For the stuff I do remember from the books. 
+Though what I mean to discuss is not mere forgetting, but specifically biased/organized forgetting. Technically, you can be forgetful and not organize but then that's nearly undeniably worse and uninteresting. I mean to talk about forgetting in the context you have things you care about. Someone once asked me why I read so much if I forgot most of it (I can't recall if it was asked or if it was just obvious). I was stumped for a few days, but I arrived at a satisfying answer: For the stuff I do remember from the books. 
 
 Because the things I do remember tend to be the interesting bits. And by forgetting the rest, I've just increased the signal to noise ratio. This is pretty much the domain of compression, and I discovered through a fascination with PCA (Principal Components Analysis). 
 
@@ -57,7 +57,7 @@ Most proportion of variance plots (aka 'scree plots') look like this. Assuming y
 
 can be represented with this:
 
-[z = z^2^ + c]
+>z = z<sup>2</sup> + c
 
 Instead of memorizing the layout of pixel colors, you just apply this iteratively (and set color thresholds). 
 
@@ -78,7 +78,7 @@ In college, a friend commented on how people seem to stagnate in middle age, see
 And another, a number of years later, from the esteemed Douglas Adams:
 >"...don't you understand that we need to be childish in order to understand? Only a child sees things with perfect clarity, because it hasn't developed all those filters which prevent us from seeing things that we don't expect to see." (“Dirk Gently”, 183)
 
-I interpret these filters he references to be our models. We compress and develop models to better navigate everyday life because they are so much more efficient. But no model is perfect, and in its errors, we are vulnerable and often, [oblivious](dll110.github.io/poop/overconfidence). 
+I interpret these filters he references to be our models. We compress and develop models to better navigate everyday life because they are so much more efficient. But no model is perfect, and in its errors, we are vulnerable and often, [oblivious](https://dll110.github.io/poop/overconfidence). 
 
 It was interesting to come across yet another concurrence recently from sci-fi author Roger Williams:
 >“If we become immortal, and we occasionally grow and change, then we must also occasionally un-grow or we will eventually run out of room in whatever space we are growing. This is true whether we grow by throwing massive problems at our Jupiter-sized brains or by breeding like bunny rabbits. In real life un-growth occurs through decay and death, the very things we seek to avoid by building a Seed AI. I feel that any stable post-Singularity human existence would have to include some kind of managed un-growth; perhaps a gradual forgetting, or a periodic reset as in the movie Vanilla Sky. Unfortunately, our drives being what they are, we would inevitably find any workable form of un-growth unpleasant.” - [MOPI](http://localroger.com/prime-intellect/mopising.html )
@@ -106,7 +106,7 @@ III. Is there a case for dying in a timely fashion?
 
 The theoretical biologist Robert Rosen wrote this paper called ["Cells and Senesence"](https://dll110.github.io/documents/Rosen_CellsAndSenesence1978%20(dragged)%203.pdf), where he has you consider as a model of 
 
-		n(T) = n(0)e^(a - p)T^ 
+>n(T) = n(0)e<sup>(a - p)T</sup>
 
 where 
 - n(0) is the starting population,
@@ -136,8 +136,8 @@ But I suppose my rationalization is significantly influenced by a relative lack 
 
 Ironically, I suppose that they anticipate they can rely on the strategy of forgetting, while I don't seem to trust in my great ability of forgetting in this realm, or perhaps my imagination here is unusually lacking, but prospectively, a world where most of the people I know today will be gone is just rather depressing. I guess we’ll see whether my forgetfulness or sentimentality wins out. (Though, this is a moot point if I die first.)
 
-Perhaps another iteration of myself would be supportive of immortality. But this iteration is pretty fine with dying (and on this hill). It is easily appeased and inspired by quotes like,
->“We have but a short life to live here my dear friend. But let us make it long by noble deeds.” - [Salmon Chase to Edward Stanton](dll110.github.io/lincoln)
+Perhaps another iteration of myself would be supportive of immortality. But this iteration is pretty fine with dying (and on this hill, passively). It is easily appeased and inspired by quotes like,
+>“We have but a short life to live here my dear friend. But let us make it long by noble deeds.” - [Salmon Chase to Edward Stanton](https://dll110.github.io/lincoln)
 
 ----
 
