@@ -49,7 +49,7 @@ Though what I mean to discuss is not mere forgetting, but specifically biased/or
 
 Because the things I do remember tend to be the interesting bits. And by forgetting the rest, I've just increased the signal to noise ratio. This is pretty much the domain of compression, and I discovered through a fascination with PCA (Principal Components Analysis). 
 
-<center><img src="../documents/scree_plot_wikipedia.png" title="scree plot from wikipedia" style='width="400"; height:600px;'/></center>
+<center><img src="../documents/scree_plot_wikipedia.png" title="scree plot from wikipedia" style='width="200"; height:300px;'/></center>
 
 Most proportion of variance plots (aka 'scree plots') look like this. Assuming your data/signal of interest is in the top PCs, why not just remember two variables that account for 70% of the variation in the data instead of 10 or more variables? In a class on the geometry of data, it seems like a lot of phenomena are much lower dimensionality than it theoretically can be, which I think is an interesting nugget. I think a similar principle is why it's impressive that this:
 
