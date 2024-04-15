@@ -39,7 +39,7 @@ Society thinks more memory is great: Photographic memory is associated with geni
 
 I. Why value forgetfulness?
 
-Maybe a year or two ago, in the room I stay in my parents’ apartment, I remember a snippet of conversation where my dad told me about his friend who has excellent memory--and rather messy code. His friend didn’t bother organizing it because he had no problem remembering where everything was. I don’t remember how the conversation began or much else.
+Maybe a year or two ago, in the room I stay in my parents’ apartment, I remember a snippet of conversation where my dad told me about his friend who has excellent memory--and rather messy code. His friend didn’t bother organizing it because he had no problem remembering where everything was. Fittingly, I don’t remember how the conversation began or much else.
 
 It was easily memorable because my experience maps to the inverse: With unreliable memory, I need to put considerable effort towards organizing things for them to be reasonably retrievable, or else suffer tip-of-tongue even worse than I do now (a twenty-something friend said that their mother was starting to suffer from it -- it started in middle school for me). The journalist in Zima Blue with her AM is likely like my dad’s friend, with great record and recall -- and with no need to organize. But we don't have AMs in this [day and age](https://www.youtube.com/watch?v=0dCCOsnXmAQ&list=PLcnPdZHPO1-bV9MsSZAkMa_Pur-on-Ueq&index=10) so some Douglas Adams might be relevant:
 
