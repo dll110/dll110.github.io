@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-14T20:07:58-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">a typical travel log, on Taipei, Guangzhou, and Hong Kong</title><link href="http://localhost:4000/poop/on_food_and_travel" rel="alternate" type="text/html" title="a typical travel log, on Taipei, Guangzhou, and Hong Kong" /><published>2024-04-06T00:00:00-07:00</published><updated>2024-04-06T00:00:00-07:00</updated><id>http://localhost:4000/poop/travel_post</id><content type="html" xml:base="http://localhost:4000/poop/on_food_and_travel">&lt;p&gt;Dear reader,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-02T16:43:06-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">a typical travel log, on Taipei, Guangzhou, and Hong Kong</title><link href="http://localhost:4000/poop/on_food_and_travel" rel="alternate" type="text/html" title="a typical travel log, on Taipei, Guangzhou, and Hong Kong" /><published>2024-04-06T00:00:00-07:00</published><updated>2024-04-06T00:00:00-07:00</updated><id>http://localhost:4000/poop/travel_post</id><content type="html" xml:base="http://localhost:4000/poop/on_food_and_travel">&lt;p&gt;Dear reader,&lt;/p&gt;
 
 &lt;p&gt;I recently went on a trip to East Asia, so here are some highlights for your perusal:&lt;/p&gt;
 
@@ -133,7 +133,21 @@
   &lt;li&gt;sulk about it for weeks&lt;/li&gt;
   &lt;li&gt;borrow your friend’s expensive lotion to mitigate the itching&lt;/li&gt;
   &lt;li&gt;be glad that malaria is not endemic to your region&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">stay covered up; wear long sleeves and long pants avoid hanging out too much at night particularly near sketchy forests bring spray for protection hang out with other attractive people commiserate with them complain about the twenty solicitations from a single night while your friends have none sulk about it for weeks borrow your friend’s expensive lotion to mitigate the itching be glad that malaria is not endemic to your region</summary></entry><entry><title type="html">superficial thoughts on AI and robotics</title><link href="http://localhost:4000/poop/artificial_machines" rel="alternate" type="text/html" title="superficial thoughts on AI and robotics" /><published>2024-01-26T00:00:00-08:00</published><updated>2024-01-26T00:00:00-08:00</updated><id>http://localhost:4000/poop/artificial_machines</id><content type="html" xml:base="http://localhost:4000/poop/artificial_machines">&lt;p&gt;What is the difference between AI and robotics?&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">stay covered up; wear long sleeves and long pants avoid hanging out too much at night particularly near sketchy forests bring spray for protection hang out with other attractive people commiserate with them complain about the twenty solicitations from a single night while your friends have none sulk about it for weeks borrow your friend’s expensive lotion to mitigate the itching be glad that malaria is not endemic to your region</summary></entry><entry><title type="html">super premium professional friend</title><link href="http://localhost:4000/poop/super_premium" rel="alternate" type="text/html" title="super premium professional friend" /><published>2024-02-21T00:00:00-08:00</published><updated>2024-02-21T00:00:00-08:00</updated><id>http://localhost:4000/poop/super_premium</id><content type="html" xml:base="http://localhost:4000/poop/super_premium">&lt;p&gt;It’s often said that if all your relationships suck, the common factor is you.
+Conversely, if the trend is that your relationships are great, the common factor is also you – this is true in my case.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;../documents/costco_ice_cream.jpg&quot; title=&quot;costco super premium ice cream&quot; style=&quot;width=&amp;quot;400&amp;quot;; height:600px;&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;Introducing the super premium professional friend. More professional than a spouse, more premium than a therapist, more super than your friends!
+10+ years experience.
+Specialized in the inquiry-based/rubberduck approach. 
+Multidisciplinary expertise.&lt;/p&gt;
+
+&lt;p&gt;Testimonials:&lt;/p&gt;
+
+&lt;p&gt;“Low drama, great ROI.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/2U4wcfQzqerapUNv8&quot;&gt;Submit your testimonial here!&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">It’s often said that if all your relationships suck, the common factor is you. Conversely, if the trend is that your relationships are great, the common factor is also you – this is true in my case.</summary></entry><entry><title type="html">superficial thoughts on AI and robotics</title><link href="http://localhost:4000/poop/artificial_machines" rel="alternate" type="text/html" title="superficial thoughts on AI and robotics" /><published>2024-01-26T00:00:00-08:00</published><updated>2024-01-26T00:00:00-08:00</updated><id>http://localhost:4000/poop/artificial_machines</id><content type="html" xml:base="http://localhost:4000/poop/artificial_machines">&lt;p&gt;What is the difference between AI and robotics?&lt;/p&gt;
 
 &lt;p&gt;In my head, they are rather vaguely separated; “A Thousand Brains” pointed to some cultural differences (apparently they talk to each other less than you might think i.e. the concept of ‘reference frames’ is currently limited to robotics), but in my head they’re under the umbrella of ‘artifical machines’. And here I mean artificial as in man-made, engineered. And machines in the more cybernetics sense, not the steampunk/top-down sense.&lt;/p&gt;
 
@@ -299,77 +313,4 @@ I think this framework mostly makes sense assuming this is a zero sum context. i
 
 &lt;p&gt;In summary, LSD seems to decrease your resolution of thought, so that a stimulus tends to trigger a longer automated prediction stream. This goes with fewer opportunites for control/decisions, and a regression towards more normal behavior (the possibility space is smaller if there are fewer degrees of freedom).&lt;/p&gt;
 
-&lt;p&gt;I’m am not confident this is the best interpretation of my experience, but my friend who likes meta-analyzing said that his experience agreed with my model of it. So, here it is on the internet, in case someone has a similar experience and want solidarity.&lt;/p&gt;</content><author><name></name></author><summary type="html">generalizations from n=1</summary></entry><entry><title type="html">your aesthetic is god</title><link href="http://localhost:4000/poop/god" rel="alternate" type="text/html" title="your aesthetic is god" /><published>2023-10-21T00:00:00-07:00</published><updated>2023-10-21T00:00:00-07:00</updated><id>http://localhost:4000/poop/aesthetic_is_god</id><content type="html" xml:base="http://localhost:4000/poop/god">&lt;p&gt;I am itching to note these thoughts somewhere because I think I’ve resolved an interesting, long-standing gap in my understanding (and if it was obvious to you let me know how you learned it).&lt;/p&gt;
-
-&lt;p&gt;But I recently realized that I’ve been procrastinating on this because it touches on some presumably touchy subjects (e.g. God, God and irreverence, God and mechanistic explanations, God, and God, etc), and due to a chronic under-modeling of others, I am not confident that I’ll handle them gracefully.&lt;/p&gt;
-
-&lt;p&gt;…which becomes a motivation to write – let’s risk a splendid catastrophe.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I.&lt;/p&gt;
-
-&lt;p&gt;A first observation: ‘God’ seems to be a conflated term. My, your, their God, “God”, and Gods, etc – people get it sufficiently wrong we’re inspired to correct them with a partcular enthusiasm. Like the British who talk about ‘them Europeans versus us’, for Christians, there’s other Christians, and then there’s us &lt;em&gt;true&lt;/em&gt; Christians.&lt;/p&gt;
-
-&lt;p&gt;I grew up in an agnostic/atheist family, but have been in proximity to Christian communities (I went to Vacational Bible School in the summers, probably as cheap daycare). In high school, I read the Selfish Gene, and impressed by this framework of evolution, then puzzled by the continued existence of Creationism, because it seemed obviously worse, I explored the question of why people believe what they do. And as I read around the topic, I developed the impression that science and organized religion were mostly mutually exclusive; with science you should no longer need religion. I did not think too hard about scientists who believed in a God, because I was mainly concerned with mainstream Christian notion of God, and my impression was that their notion of God was more on the ‘spiritual’ side, whatever that means. The point here is, whatever they were calling God did not mean the same thing.&lt;/p&gt;
-
-&lt;p&gt;Now, more than a decade later, I was reminded of this interesting phenomena through this &lt;a href=&quot;https://guzey.com/people-re-god/&quot;&gt;Alexey’s recent blog post&lt;/a&gt;, on this seeming paradox of religious scientists. But now I have a speculation of why that is – I serendipitously talked to someone about their religious experience, and serendipitously encountered the thought, ‘I think I relate to this’.&lt;/p&gt;
-
-&lt;p&gt;It’s just that, instead of ‘God’, I’ve been calling it ‘aesthetic’. And with this consideration, I’m now wondering if they maybe &lt;em&gt;are&lt;/em&gt; all trying to gesture to the same thing after all.&lt;/p&gt;
-
-&lt;p&gt;(I don’t mean to claim that all religious/spiritual people are necessarily gesturing to the same thing when they think of God – as a kid, I took everything at face value and &lt;em&gt;that&lt;/em&gt; God never talked to me. But I’m suspecting that there is sometimes a convergence with a certain kind of religious.)&lt;/p&gt;
-
-&lt;p&gt;II.&lt;/p&gt;
-
-&lt;p&gt;The co-option of the term ‘aesthetic’ arose some years ago, after I attended an academic conference and found that I didn’t know how to describe my relative disinterest in various presentations and posters. I could not identify anything wrong with their scientific approach. The closest explanation I could come up with was that they weren’t ‘pretty’ enough. And surprisingly, this explanation stuck.&lt;/p&gt;
-
-&lt;p&gt;I discovered that I related to the experience of artists, where they are compelled to search for, collect, and create things that inspire, to attempt to express their intuitions. But instead of beautiful paintings or sculptures, it is looking to create beautiful models – if so, science could be driven by more subjectivity than I originally thought. And then I started to use it everywhere to gesture to low-level preferences, basic gut feelings, anywhere to express the sense and intuition of when something is beautiful or satisfying. This is what a subset of scientists mean by God, I suspect.&lt;/p&gt;
-
-&lt;p&gt;[But while your gut can tell you whether something is ‘aesthetic’ or not, it does not tell you why. And so to find and/or build more aesthetic things, it can be a scientific process of its own, with hypothesis generation and testing.]&lt;/p&gt;
-
-&lt;p&gt;III.&lt;/p&gt;
-
-&lt;p&gt;What about the relationship between aesthetic and the religious-religious God?&lt;/p&gt;
-
-&lt;p&gt;There is a fascinatingly speculative book called “The Origins of Consciousness and the Breakdown of the Bicameral Mind” by Julian Jaynes. It proposes that consciousness is a cultural phenomena, that people used to literally hear God’s voices and that has come to be understood/modeled as our ‘own’ voice. It is not something that is easily proven, so why is Julian Jaynes’ book worth reading? It submits for consideration the idea that people might’ve modeled and thus experienced their consciousness differently. And now, it’s provided the inspiration for the adjacent consideration that one’s internal experience is culturally malleable, and perhaps &lt;em&gt;even today&lt;/em&gt;, people model their consciousness differently.&lt;/p&gt;
-
-&lt;p&gt;For example, what does being religious entail? Prayer, being devout, going to church, having faith, surrendering to God, etc. Are there secular analogues to such practices? My prior impressions were ‘no, not really’. My current impressions are more conspiratorial:&lt;/p&gt;
-
-&lt;p&gt;It started with prayer. I had found serendipitously found myself joining a small group (for old times’ sake) and during group prayers, where people reflected on the problems in their life, things they were grateful for, and well wishes they had for others, it struck me that this was similar to what I do when introspecting. And suddenly, prayer didn’t seem like a polite, black-box ritual – I could concretely see how it could be functional.&lt;/p&gt;
-
-&lt;p&gt;In other words, what is introspection but praying to your aesthetic to figure out a problem and asking it for guidance? I’m not sure if this generalizes to others, but that’s basically what it is for me. And then if you don’t introspect/pray for a while, you’re less in touch with your aesthetic/God.&lt;/p&gt;
-
-&lt;p&gt;And then in unpacking what at least one person means by ‘surrendering’ (to Jesus), it maps well to my understanding of making your actions consistent with your values – you make your life consistent with your aesthetic. And if you keep following your aesthetic/God, you develop faith – you may not know where it’ll take you, and it may be contrary to common/external advice, but you develop trust that there’s something real there, and that following it tends to lead to good outcomes.&lt;/p&gt;
-
-&lt;p&gt;I am wondering if religion can be seen as a tool society/culture has devised to teach introspection en mass. I’ve also started to suspect that introspection doesn’t come naturally to many (after talking around topics of mental frameworks/organization, someone once asked me ‘So, what drugs do you use?’, and in reading a draft of &lt;a href=&quot;dll110.github.io/poop/personal_statement.md&quot;&gt;my personal statement&lt;/a&gt;, a mentor commented, ‘you think a lot don’t you?’). And that’s why prayer isn’t the only tool; ‘woo-y’ practices like manifestation, horoscopes, etc are also beginning to look like tools for introspecting to me; I think they can work because they can prime/load into your mind certain questions and/or attitudes, making you better situated to find possible solutions (like confirmation bias or frequency illusion).&lt;/p&gt;
-
-&lt;p&gt;And I think this is why post-rats tend to be into manifestation and crystals: a common error rationalists tend to fall into is overriding their sense of aesthetic; it’s perhaps following the trope of hubris, of thinking themselves above God. Then, post-rats are those who’ve felt the repercussions of that and are now looking to be closer to their aesthetic/God (but I have a pet-peeve dislike of the term ‘vibes’ – I think its because they gesture to feelings/aesthetic – and stop there. I’m arguing here that feelings are important (see tenet 1 of &lt;a href=&quot;dll110.github.io/poop/water&quot;&gt;‘shared norms’&lt;/a&gt;) but they often require critical analysis/processing to be used well – e.g. there’s something sparkly here, but &lt;em&gt;why&lt;/em&gt; is it sparkly?  maybe why bible study is important?).&lt;/p&gt;
-
-&lt;p&gt;IV.&lt;/p&gt;
-
-&lt;p&gt;I have not fully explored this mapping between aesthetic and God yet, but I feel like I’ve been able to take it farther than I initially expected – one last one:&lt;/p&gt;
-
-&lt;p&gt;For a long time, I had trouble understanding why people fell into depressive nihilism (mentioned in some previous post), and watching &lt;a href=&quot;https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once&quot;&gt;EEAAO&lt;/a&gt; made it more salient as a pervasive problem. My own reaction to realizing that nothing matters was ‘great, that means I can fully focus/decide to do what I want’. While I wouldn’t claim that I fully understand it even now, I’ve since developed the tentative hypothesis that the difference between others’ and my reaction is that I have a strong sense of things mattering to me (see &lt;a href=&quot;dll110.github.io/eat&quot;&gt;input&lt;/a&gt;); I was saved by my aesthetic. Or, dare we say – “I was saved by God”.&lt;/p&gt;
-
-&lt;p&gt;Half-joking continued, if your aesthetic is God, ‘you have God on your side’/God is with you’/’the power of Christ compels you’, or whatever is empowering – maybe use it.&lt;/p&gt;
-
-&lt;p&gt;V.&lt;/p&gt;
-
-&lt;p&gt;Some remaining thoughts and questions:&lt;/p&gt;
-
-&lt;p&gt;I generally believe by default that people make sense, according to their framework, and while I am not yet confident this above exposition isn’t some spurious mapping, I think it’d help to find people with religious frameworks be more concretely relatable. Because it seems like despite different starting points, they seem to have converged in pointing to the same thing – and why is that? Why does it seem so essential? Or rediscovered often?&lt;/p&gt;
-
-&lt;p&gt;How does one develop a sense of ideals, or find their aesthetic? Why are some people more idealistic than others?&lt;/p&gt;
-
-&lt;p&gt;The mainstream approach to religion is like high school english class for me; they feel like a bastardization of something I actually find meaningful and substantial years later, like this angle and insightful video essays, respectively. 
-So perhaps for a future exploration: On building cathedrals, or how to find God.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;Thanks to AG and BT for reading.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Books that contributed to the development of this framework:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072&quot;&gt;“The Origin of Consciousness in the Breakdown of the Bicameral Mind” (Julian Jaynes)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252&quot;&gt;“The Artist’s Way” (Juila Cameron)&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">I am itching to note these thoughts somewhere because I think I’ve resolved an interesting, long-standing gap in my understanding (and if it was obvious to you let me know how you learned it).</summary></entry></feed>
+&lt;p&gt;I’m am not confident this is the best interpretation of my experience, but my friend who likes meta-analyzing said that his experience agreed with my model of it. So, here it is on the internet, in case someone has a similar experience and want solidarity.&lt;/p&gt;</content><author><name></name></author><summary type="html">generalizations from n=1</summary></entry></feed>
