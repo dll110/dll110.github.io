@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a case for forgetting (a heretical? case for dying)
+title: a case for forgetting (an accidental case for dying)
 permalink: /poop/forgetfully
 date: 2023/08/03
 date_updated: 2024/04/10
@@ -92,13 +92,13 @@ Maybe it’s sunk cost fallacy, because it usually requires significant effort t
 
 I propose that a possible antithesis to forgetting is this ineffable thing called sentimentality. They are sometimes referred to as ‘attachments’. It's that urge driving people to photograph/video everything, to not dump the useless but cute stuffie, to live in the past, to try to live forever, etc. (arguably, wanting to live forever is an attachment to yourself -- ultimate narcissm?) 
 
-Why are we sentimental? 
+So why are we sentimental? 
 
-My naive response was 'because we like to attach ourselves to things we like', but because therapy exists I suspect we attach ourselves to things we arguably don't like as well. 
+My naive response was 'because we like to attach ourselves to things we like' (but because therapy exists I suspect we attach ourselves to things we arguably don't like as well). 
 
 Perhaps it's just momentum -- things you encounter/experience trains the model of 'you'. Whether you subsequently remember them or not, they tweak the weights, creating tendencies of thought, which become ruts of thought, whose aggregate patterns characterize 'you'. As Hofstadter claims, "Each of us exhibits a cognitive style that in essence defines the ruts we are permanently caught in. (537)". 
 
-And the implication of having a cognitive style is that there is commitment to a system, in the way that using an operating system or langauge is a commitment to its underlying grammar and idiosyncracies. And somehow, in committing to a system, we seem to want to stick with it -- perhaps this is sunk cost fallacy after all. Maybe it's why people don't want to die. This seems normal enough, but I am not convinced that striving for immortality is a good idea. 
+And the implication of having a cognitive style is that there is commitment to a system, in the way that using an operating system or langauge is a commitment to its underlying grammar and idiosyncracies. And somehow, in committing to a system, we seem to want to stick with it -- perhaps this is sunk cost fallacy after all. When you're at or near a local optima, you don't want to go down the hill in hopes of reaching a more global but less certain optima. Perhaps this maps a bit to stochastic gradient descent, which 'shakes things up' to prevent convergence at too local of an optima; people are more likely to change when shaken up by life events. So maybe it's why people don't want to die. This seems normal enough, but I am not convinced that striving for immortality is a good idea. 
 
 I wonder if it's also part of a cultural value of progress, parallelizing the attitude that 'you don't need to budget if you just have sufficient income'. That's fine if it's true in that context, but I have significant doubts that the concept of budgeting/compression/forgetting will become obsolete. 
 
