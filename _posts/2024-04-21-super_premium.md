@@ -8,14 +8,18 @@ published: true
 hide: true
 ---
 
-It's often said that if all your relationships suck, the common factor is you.
-Conversely, if the trend is that your relationships are great, the common factor is also you -- this is true in my case.
+There's some common saying the goes something like 'If all your friendships suck, the common factor is you'. 
+
+What about the converse? All my friendships are great, and the common factor is me.
 
 <center><img src="../documents/costco_ice_cream.jpg" title="costco super premium ice cream" style='width="400"; height:600px;'/></center>
 
 Introducing the super premium professional friend. More professional than a spouse, more premium than a therapist, more super than your friends!
+
 10+ years experience.
+
 Specialized in the inquiry-based/rubberduck approach. 
+
 Multidisciplinary expertise.
 
 
