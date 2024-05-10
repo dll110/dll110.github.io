@@ -52,11 +52,11 @@ A suggestion from the Geopark:
 
 # Guangzhou, China
 
-Whereas Taiwan was similar to Japan in its politeness, this is one of the first signs I saw in Hong Kong. I was somewhat relieved. 
+Whereas Taiwan was similar to Japan in its politeness, this is one of the first signs I saw in Hong Kong. I was somewhat relieved, because it seemed to imply that there is a norm of jaywalking. 
 
 <center><img src="../documents/east_asia_2024/hk_no_jaywalking.jpeg" title="no jaywalking :<" style='height:500px;'/></center>
 
-We took the high speed train from Hong Kong to Guangzhou. The landscape is grey and unusual. 
+We took the high speed train from Hong Kong to Guangzhou. The landscape is grey (mostly the sky actually) and unusual. 
 
 <center><img src="../documents/east_asia_2024/gz_landscape.jpeg" title="grey" style='width="400"; height:600px;'/></center>
 
@@ -124,17 +124,17 @@ _Commercial flights dependably amaze me._
 
 'Wow, such insightful, valuable observations!', you might kindly say, as a supportive, dear reader.
 
-Thank you, thank you -- but I have a confession to make: I started this blog to have aspirationally useful dissections/analyses about things, but alas, this seems to moonlight as a venting blog from time to time. I guess, I am compelled to put out on the public internet that usual of notions of fun can very much suck, and perhaps some naive traveler will stumble across this blog and derive some amusement from how pathetically difficult I found this (e.g. I did not go to Baiyun Mountain myself; that is a pic from wikipedia and that day, I took a break by sitting at McDonald's and reading a book instead). Yes, these observtions are very valuable, valuable in the sense that it was expensive to obtain them -- I am pitifully still recovering from this trip more than a week later.  
+Thank you, unnecessarily kind of you, etc -- but I have a confession to make: I started this blog to have aspirationally useful dissections/analyses about things, but alas, this seems to moonlight as a venting blog from time to time. I guess, I am compelled to put out on the public internet that usual of notions of fun can very much suck, and perhaps some naive traveler will stumble across this blog and derive some amusement from how pathetically difficult I found this (e.g. I did not go to Baiyun Mountain myself; that is a pic from wikipedia and that day, I took a break by sitting at McDonald's and reading a book instead). Yes, these observtions are very valuable, valuable in the sense that it was expensive to obtain them -- I am pitifully still recovering from this trip more than a week later.  
 
 'Wasn't this a vacation?', asks the now confused reader.
 
-I like that Europeans make a distinction between a holiday and a vacation -- a holiday is to relax, and a vacation is to explore. I noticed that I had directed surprisingly little attention to this international trip before going, and I belatedly realized it was partly because there was some trepidation -- I'm pleased to report that my intution has matured over the years and was onto something. But it had conveniently forgotten the details of what family vacations have been like, so I was treated to nostalgic feelings of antsy-ness and an urge to detach from the group. And while it is freshly salient on my mind, let me note for my forgetful future self that it was a mildly excruciating two weeks: I am not sufficiently entertained by nature, nor logistics, I am not a foodie, and staccotto 'conversations' are draining and demoralizing. Add slow walking on top of that. 
+I like that Europeans make a distinction between a holiday and a vacation -- a holiday is to relax, and a vacation is to explore. I noticed that I had directed surprisingly little attention to this international trip before going, and I belatedly realized it was partly because there was some trepidation -- I'm pleased to report that my intution has matured over the years and was onto something. But it had conveniently forgotten the details of what family vacations have been like, so I was treated to nostalgic feelings of antsy-ness and an urge to detach from the group. And while it is freshly salient on my mind, let me note for my forgetful future self that it was a mildly excruciating two weeks: I am not sufficiently entertained by nature, nor logistics, I am not a foodie, and staccato 'conversations' are draining and demoralizing. Add tediously slow walking on top of that. 
 
-I find that I eventually become quite frazzled with the insufficient engagement/stimulation, with the tldr; being that I'm absolutely horrible company with the wrong people.
+I find that I eventually become quite frazzled with the insufficient engagement/stimulation, with the tldr; being that I feel like absolutely awful company with the wrong people.
 
 I think it is common to hate family vacations, but why I'm complaining here is because my family are nice and reasonable people. I'm complaining because I don't quite understand why this particular discrepancy exists -- why is this not enough for me when it seems to be enough for most people? Somehow, I'm bad at things that seem like they're suppose to be easy to enjoy: hiking, watching movies, going out to eat, etc. Why do I not understand? What am I missing? 
 
-The only practical takeaway I have for now is to be more particular about the company I'm with. 
+The only practical takeaway I have for now is to be more particular about the company I'm with. Which I'm usually salient of. So maybe, to have better escape plans.  
 
 <center><img src="../documents/east_asia_2024/gz_encounter_yourself.jpeg" title="I do not know what this means" style='height:500px;'/></center>
 <div align="center" markdown="1">_I do not know what this means._

@@ -10,7 +10,7 @@ published: true
 _or, 'how to find god if your mind works close enough to my own'_
 
 
-It has yet again come to my attention^1^ that many of my peers are still fixated on relative intelligence -- maybe this includes you, dear reader. It is understandable; intelligence is significant currency in some social circles. But unless you thrive on anxiety or something, this sounds like unnecessary suffering and you should consider trying to switch to my framework.
+It has yet again come to my attention<sup>1</sup> that many of my peers are still fixated on relative intelligence -- maybe this includes you, dear reader. It is understandable; intelligence is significant currency in some social circles. But unless you thrive on anxiety or something, this sounds like unnecessary suffering and you should consider trying to switch to my framework.
 
 I’m of the thought that intelligence is kind of like happiness and current events, in that, despite the hubbub, nothing bad happens if you stop actively thinking about it. In fact, not thinking about it generally makes life better, maybe because there seems to be little to no effective control knobs at this level. Because, what is 'intelligence' anyway? 
 
@@ -20,7 +20,7 @@ I’m of the thought that intelligence is kind of like happiness and current eve
 
 What if you are neither of these things? What if you are average, a mean or median, who cares – maybe below average, lazy, curiously bereft of common sense, undistinguished, a platonic ideal of an idiot, etc? Poor, poor, you, what are you goinng to do?
 
-Some seem to wallow, resigned to an uninspired life -- this is unexciting. Others try to fake it, and invest their efforts into signaling intelligence without substance to back it. This sounds stressful and many kinds of ugly. And just plain hard^2^. I would like to politely shake them and patronizingly ask, '_did you know_ there is another way?' (Jesus died for your sins).
+Some seem to wallow, resigned to an uninspired life -- this is unexciting. Others try to fake it, and invest their efforts into signaling intelligence without substance to back it. This sounds stressful and many kinds of ugly. And just plain hard<sup>2</sup>. I would like to politely shake them and patronizingly ask, '_did you know_ there is another way?' (Jesus died for your sins).
 
 I say: Build a cathedral.
 
@@ -30,7 +30,7 @@ A cathedral, as in a kludgey assemblage of abstractions, frameworks and heuristi
 
 A cathedral that is your own, and you are its chief architect.
 
-Because no one (I don't) really cares how intelligent you are^3^. I think the real question is, are you satisfying your own aesthetic/god? What do you fundamentally care about? 
+Because no one (I don't) really cares how intelligent you are<sup>3</sup>. I think the real question is, are you satisfying your own aesthetic/god? What do you fundamentally care about? 
 
 I only stumbled across it accidentally, and was about mad that I almost missed it and adults didn't tell me about it. But now, as an experienced adult, it appears that most adults just don't know about it.
 
@@ -52,7 +52,7 @@ Maybe it's when you hit a critical point, that no one talks about, where backdoo
 I do not think this is for everyone -- there are argubly better uses of your time and attention; it can be uncomfortable, and I do not know of a shortcut. So I suspect that this will not be broadly applicable. But people are compelled to scupt, paint, make music, etc. I think it is a similar kind of compulsion, but with frameworks.
 
 
-But it is a possible path, a scenic path, and I recommend it highly^4^. 
+But it is a possible path, a scenic path, and I recommend it highly<sup>4</sup>. 
 
 
 _To my younger self, who felt uncharacteristically indignant that the adults didn't mention this -- this is my attempt to remedy it._
