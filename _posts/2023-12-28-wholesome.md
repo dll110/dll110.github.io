@@ -22,7 +22,7 @@ And the protagnoist strives for this (although I guess it could be framed as a m
 
 This leads to one of the probably more iconic lines from the film because it also tickles something: "Remember, no man is a failure who has friends."
 
-FYI -- I, if nothing else, [have great friends](dll119/github.io/poop/professional_friend).
+FYI -- I, if nothing else, [have great friends](dll119/github.io/poop/super_premium).
 
 --
 1. I did not go back and read this; please correct me if I've misremembered.

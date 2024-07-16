@@ -72,7 +72,7 @@ I generally believe by default that people make sense, according to their framew
 How does one develop a sense of ideals, or find their aesthetic? Why are some people more idealistic than others? 
 
 The mainstream approach to religion is like high school english class for me; they feel like a bastardization of something I actually find meaningful and substantial years later, like this angle and insightful video essays, respectively. 
-So perhaps for a future exploration: On building cathedrals, or how to find God. 
+So perhaps for a future exploration: [On building cathedrals, or how to find God](dll110.github.io/poop/cathedrals2). 
 
 (Addendum 2024/05/02):
 In other words, how do you gesture to the layer at and below 'preferences', the layer where there's no point in trying to use logic to 'convince' someone (e.g. consider the absurdity of responding to 'I enjoy eating pizza upside down'/'I find this beautiful' with 'You're wrong')? You've reached the realm of the unconscious, where the calculations are complex enough that legibility fails. I'm saying, I've called it aesthetic, and some call it God.

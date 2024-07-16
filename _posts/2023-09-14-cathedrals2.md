@@ -7,7 +7,7 @@ date_updated: 2023/12/28
 published: true
 ---
 
-_or, 'how to find god if your mind works close enough to my own'_
+_or, 'how to find [god](dll110.github.io/poop/god) if your mind works close enough to my own'_
 
 
 It has yet again come to my attention<sup>1</sup> that many of my peers are still fixated on relative intelligence -- maybe this includes you, dear reader. It is understandable; intelligence is significant currency in some social circles. But unless you thrive on anxiety or something, this sounds like unnecessary suffering and you should consider trying to switch to my framework.
