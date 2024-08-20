@@ -1,3 +1,4 @@
+---
 layout: post
 title: notes from "The changing role of the embryo in evolutionary thought"
 permalink: /poop/developmentally
@@ -20,8 +21,9 @@ published: false
 “We (philosophers especially) do not do history from an abstract love of history. David Hull and I have come to quite different conclusions in our historical writings. In a discussion of our differences, David pointed out to me that my own writing was as biased as I claimed the traditional Synthesis histories to have been. He said that his work of the 1960s and 1970s was “history done in a good cause.” He made me realize that mine is exactly the same. But it’s now thirty years later. His good cause was won (with his able help), and my good cause is a different cause.” (10);
 
 1.6 Explanatory relativity
+(on understanding differences in research programmes/fields; on how they're asking different questions)
 
-interest-relativity
+interest-relativity:
 “If you want to understand a scientific theory or research tradition, look at what the scientists want to explain, and what they think counts as an explanation of it. If you want to understand the difference between a pair of competing scientific theories, look at why each theory’s advocates believe that the others’ explanations are faulty.”
 
 “Atomic theory did not replace the phlogistic explanation of the qualities of compounds. Instead, it abandoned the goal of explaining the qualities of compounds entirely, and it replaced it with the new goal of explaining the proportionate weights of elements and compounds–a poor substitute, to my mind. Nevertheless, the new explanatory goal was achievable, and the old goal was not. To understand the differences between these theories, we must understand the differences in the questions they asked – which is to say, the explananses for which they sought explananda.” (21)
@@ -38,5 +40,6 @@ interest-relativity
 
 “ISHPSSB is the International Society for the History, Philosophy, and Social Studies of Biology, pronounced “Ishkabibble.”” (footnote, 23)
 
-=> history of biology as a history/lineage of questions that were posed, addressed, or dropped
+actual theoretical biology excerpts:
+
 
