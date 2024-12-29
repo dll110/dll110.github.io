@@ -22,9 +22,10 @@ Specialized in the inquiry-based/rubberduck approach.
 
 Multidisciplinary expertise.
 
+[Get in touch!](https://twitter.com/dll1101)!
 
 Testimonials: 
 
-"Low drama, great ROI."
+"Low drama, great ROI." 
 
 [Submit your testimonial here!](https://forms.gle/2U4wcfQzqerapUNv8)

@@ -45,7 +45,7 @@ Food in Taiwan was solid asian food, but not the most memorable. The best food w
 
 <center><img src="../documents/east_asia_2024/tp_beef_noodle_soup.jpeg" title="yummy" style='height:500px;'/></center>
 
-A suggestion from the Geopark:
+A thoughtful suggestion from the Geopark:
 <center><img src="../documents/east_asia_2024/tp_do_not_cross.jpeg" title="do not cross" style='height:500px;'/></center>
 
 
@@ -128,7 +128,7 @@ Thank you, unnecessarily kind of you, etc -- but I have a confession to make: I 
 
 'Wasn't this a vacation?', asks the now confused reader.
 
-I like that Europeans make a distinction between a holiday and a vacation -- a holiday is to relax, and a vacation is to explore. I noticed that I had directed surprisingly little attention to this international trip before going, and I belatedly realized it was partly because there was some trepidation -- I'm pleased to report that my intution has matured over the years and was onto something. But it had conveniently forgotten the details of what family vacations have been like, so I was treated to nostalgic feelings of antsy-ness and an urge to detach from the group. And while it is freshly salient on my mind, let me note for my forgetful future self that it was a mildly excruciating two weeks: I am not sufficiently entertained by nature, nor logistics, I am not a foodie, and staccato 'conversations' are draining and demoralizing. Add tediously slow walking on top of that. 
+I like that Europeans make a distinction between a holiday and a vacation -- a holiday is to relax, and a vacation is to explore. I noticed that I had directed surprisingly little attention to this international trip before going, and I belatedly realized it was partly because there was some trepidation -- I'm pleased to report that my intution has matured over the years and was onto something. But it had conveniently forgotten the details of what family vacations have been like, so I was treated to nostalgic feelings of antsy-ness and an urge to detach from the group. And while it is freshly salient on my mind, let me note for my [forgetful](https://dll110.github.io/poop/forgetfully) future self that it was a mildly excruciating two weeks: I am not sufficiently entertained by nature, nor logistics, I am not a foodie, and staccato 'conversations' are draining and demoralizing. Add tediously slow walking on top of that. 
 
 I find that I eventually become quite frazzled with the insufficient engagement/stimulation, with the tldr; being that I feel like absolutely awful company with the wrong people.
 
