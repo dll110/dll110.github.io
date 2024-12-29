@@ -4,7 +4,7 @@ title: some fun with transplant immunology
 permalink: /poop/transplant
 date: 2024/08/03
 date_updated: 2024/08/03
-published: true
+published: false
 ---
 
 Transplant immunology is a great place to sightsee the paradoxical 'robust but fragile' character of biological systems.
