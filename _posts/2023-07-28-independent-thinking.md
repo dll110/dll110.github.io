@@ -3,7 +3,7 @@ layout: post
 title: how to not be a conspiracy theorist
 permalink: /poop/independently
 date: 2023/07/28
-published: true
+published: false
 ---
 
 I generally enjoy reading Paul Graham's essays, but when I first read his essay on [independent thinking](http://www.paulgraham.com/think.html) in Nov 2020, I admittedly found it a little bit frustrating. 
