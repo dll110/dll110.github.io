@@ -12,9 +12,39 @@ layout: default
   {{ content }}
 </div>
 
-<span>[
-  {% for tag in post.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
+{% assign posts = site.posts | where_exp: "post", "post.published == true and post.hide != true" %}
+{% assign current_index = nil %}
+
+{% for post in posts %}
+  {% if post.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_post = nil %}
+{% assign next_post = nil %}
+
+{% if current_index != nil %}
+  {% assign prev_index = current_index | minus: 1 %}
+  {% assign next_index = current_index | plus: 1 %}
+
+  {% if prev_index >= 0 %}
+    {% assign prev_post = posts[prev_index] %}
+  {% endif %}
+
+  {% if next_index < posts.size %}
+    {% assign next_post = posts[next_index] %}
+  {% endif %}
+{% endif %}
+
+
+<div class="post-nav">
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}">&larr; Previous: {{ page.previous.title }}</a>
+  {% endif %}
+  {% if page.next %}
+    <a style="float: right;" href="{{ page.next.url }}"> Next: {{ page.next.title }} &rarr;</a>
+  {% endif %}
+</div>
+<br><br>
+
