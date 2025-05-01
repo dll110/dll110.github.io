@@ -12,7 +12,13 @@ layout: default
   {{ content }}
 </div>
 
-{% assign posts = site.posts | where_exp: "post", "post.published == true and post.hide != true" %}
+{% assign filtered_posts = "" | split: "" %}
+{% for post in site.posts %}
+  {% if post.published and post.hide != true %}
+    {% assign filtered_posts = filtered_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
 {% assign current_index = nil %}
 
 {% for post in posts %}
