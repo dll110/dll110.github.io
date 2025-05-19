@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-01T14:15:07-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">can you have AGI without god?</title><link href="http://localhost:4000/poop/artificial_god_i" rel="alternate" type="text/html" title="can you have AGI without god?" /><published>2024-08-13T00:00:00-07:00</published><updated>2024-08-13T00:00:00-07:00</updated><id>http://localhost:4000/poop/artificial_god</id><content type="html" xml:base="http://localhost:4000/poop/artificial_god_i">&lt;p&gt;Hello! I’ve somewhat recovered from &lt;a href=&quot;https://dll110.github.io/poop/on_food_and_travel&quot;&gt;vacation&lt;/a&gt; and am ready to impress my half-processed ideas upon the world.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-18T20:14:46-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">do scaling laws apply to hoarding</title><link href="http://localhost:4000/poop/lossily" rel="alternate" type="text/html" title="do scaling laws apply to hoarding" /><published>2025-05-18T00:00:00-07:00</published><updated>2025-05-18T00:00:00-07:00</updated><id>http://localhost:4000/poop/lossily</id><content type="html" xml:base="http://localhost:4000/poop/lossily">&lt;p&gt;&lt;a href=&quot;https://dll110.github.io/poop/artificial_god_i&quot;&gt;As mentioned&lt;/a&gt;, I still don’t have clear thoughts about what AGI looks like, but I think I have a decent idea of what people I like talking to extensively look like, and I think it has to do with &lt;a href=&quot;https://dll110.github.io/poop/god&quot;&gt;aesthetic&lt;/a&gt;. And I think aesthetic has something to do with &lt;a href=&quot;https://dll110.github.io/poop/forgetfully&quot;&gt;compression&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So about two months ago, when trying to mull over these ideas with a friend, he told me about the &lt;a href=&quot;http://prize.hutter1.net/&quot;&gt;Hutter Prize&lt;/a&gt;, a competition about compression:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Being able to compress well is closely related to intelligence as explained below. While intelligence is a slippery concept, file sizes are hard numbers. Wikipedia is an extensive snapshot of Human Knowledge. If you can compress the first 1GB of Wikipedia better than your predecessors, your (de)compressor likely has to be smart(er). The intention of this prize is to encourage development of intelligent compressors/programs as a path to AGI.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And I was excited to learn about this because I didn’t have a concrete idea of how one might explore this idea concretely, and it was interesting to see how they’ve been able to take it.&lt;/p&gt;
+
+&lt;p&gt;But then I found that something didn’t quite match to my notion of it, particulary when they mentioned that it took a substantial amount of time to decompress the compressed files. And there isn’t priority in what gets unpacked first. Or what is even worth compressing. Because I think my interest in compression is to have a more efficient tool for processing data. And while I appreciate the naive compression algorithms that help keep my computer running smoothly with low latency, I also don’t appreciate the aesthetic of blind boxing up all your belongings when moving; I think it’s an excellent opportunity to prune. Perhaps I’m overimposing the results of my own constraints, but if you have any sense of impatience, you want what you’re looking for to be in the top-k of output.&lt;/p&gt;
+
+&lt;p&gt;I’m suspecting that even if memory and compute scale obscenely, I don’t think the concept of ‘priority’ will become obsolete.&lt;/p&gt;
+
+&lt;p&gt;I guess it’s because, at core, I’m thinking more of dimensionality reduction, with the implicit goal of increasing the signal to noise ratio. Compression is one approach. PCA is another dimensionality reduction approach, one that is particularly pervasive – you could say that it ‘compresses’ the likely useful stuff in the first couple of PCs, but it’s only dimensionality reduction if you do the critical next step, of actually throwing out the rest of the PCs.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;../documents/scree_plot_wikipedia.png&quot; title=&quot;scree plot from wikipedia&quot; style=&quot;width=&amp;quot;200&amp;quot;; height:300px;&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;And so for type of advanced functionality I’m vaguely imagining, I think there’s something about being able to compress &lt;a href=&quot;https://dll110.github.io/poop/forgetfully&quot;&gt;&lt;em&gt;lossily&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">As mentioned, I still don’t have clear thoughts about what AGI looks like, but I think I have a decent idea of what people I like talking to extensively look like, and I think it has to do with aesthetic. And I think aesthetic has something to do with compression.</summary></entry><entry><title type="html">the meaning of trash, and other consternations</title><link href="http://localhost:4000/poop/misunderstandings" rel="alternate" type="text/html" title="the meaning of trash, and other consternations" /><published>2024-09-05T00:00:00-07:00</published><updated>2024-09-05T00:00:00-07:00</updated><id>http://localhost:4000/poop/trash</id><content type="html" xml:base="http://localhost:4000/poop/misunderstandings">&lt;p&gt;&lt;em&gt;warning: some spoilers for ‘Frieren: At World’s End’&lt;del&gt;, which I haven’t watched [April 2025]&lt;/del&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The last time I landed in JFK and stepped out of the terminal, I remember being hit by the nostalgic NYC smell, and I took a deep breath, feeling calmed, at home.&lt;/p&gt;
+
+&lt;p&gt;For those of you who are unfamiliar with the scent I’m talking about, the first descriptor that comes to mind is, well – it smells like garbage.&lt;/p&gt;
+
+&lt;p&gt;I’m then reminded of Toy Story 5, &lt;a href=&quot;https://youtu.be/mjj0I2RbWzo?si=EO3aU-x1nWL-VHZQ&amp;amp;t=160&quot;&gt;where Woody is trying to convince Sporky to stop running away from Bonnie&lt;/a&gt;, the kid who is attached to Sporky, and throwing himself into the trash. He finally makes headway when Sporky elaborates on what trash means to him:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;it’s warm&lt;/li&gt;
+  &lt;li&gt;it’s cozy&lt;/li&gt;
+  &lt;li&gt;and safe, ‘like somebody’s whispering in your ear, &lt;em&gt;everything’s going to be okay&lt;/em&gt;’
+He informs Sporky that this is what Bonnie feels about him, leading Sporky to the wondrous revelation, ‘I’m Bonnie’s trash!’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I thought this was a surprisingly mature concept to illustrate, and suggested to me that this film was not exactly a children’s film, but also a film geared to my generation who watched the original Toy Story as a kid, and who might need a refresher on how to emotionally connect with others successfully. Because while it doesn’t seem particularly salient as a phenomena, it also seems to be everywhere at the same time, once you know to look for it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A good friend prides himself on liking Freiren before it was cool. He referenced an episode where a demon child pitifully crying ‘mom’ is taken in by humans. She eventually murders her caretaker. But it is already known that demons don’t have a concept of family, and the unsettling twist is that she learned to say ‘mom’ because she learned that saying the word prevents humans from killing her. In this world, demons are bad because they use human language superficially, to get what they want. At first, I thought it was this mismapping that makes them evil. But he brought this up to illustrate the more benign phenomena where people think they understand each other because they’re using words and phrases that do have meaningful pointers to the other person, but the internal mapping can be quite different.&lt;/p&gt;
+
+&lt;p&gt;And then another friend describes her baby learning to laugh: in the beginning, there was a phase where she said the baby was clearly fake laughing. Perhaps her baby, and babies’ inclination to smile in general, is a type of demon-ing – I don’t know if they actually know what they’re doing, if they understand what smiling does and means to their caretakers, but it sounds plausible that a default inclination for babies to reflexiviely smile and laugh would be evolutionarily selected for, they’d be more likely to be taken care of. Why do we not find this not creepy? Is it because they’re helpless and benign?&lt;/p&gt;
+
+&lt;p&gt;Let’s try a thought experiment:
+Would it still be similarly bone-chilling if the demon in Frieren &lt;em&gt;functioned&lt;/em&gt; normally in society (i.e. no inclination towards murder or other anti-social tendencies) and still didn’t internally experience ‘mom’ in the same way? I think not – I suspect the unsettling aspect of this story is the combination of anti-social inclinations and the revelation of the degree of misalignment.&lt;/p&gt;
+
+&lt;p&gt;The robot child in Spielberg’s film A.I. likely also does not operate like us, but we find it sympathizable, unlike the demon child in Frieren. And despite also having a disconnect with human emotions, why is Frieran not a demon in this sense?&lt;/p&gt;
+
+&lt;p&gt;Perhaps it’s fundamentally an assessment of risk – anti-social inclinations with unintentionally aligned frameworks make them seem plausibly reasoned with, and misalignment with eusocial inclinations/intentions is acceptable if functionally benign (arguably, the demon child was well-intentioned but dangerously missing some important norms, like an aversion to killing people as a solution path).&lt;/p&gt;
+
+&lt;p&gt;Because it seems, ‘all models are misaligned, but most are sufficiently benign’.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Like in the problem of language translation. In GEB, somewhere after first 50 pages that nearly everyone who reads GEB seems to have stopped at (while still claiming it to be a most excellent book), Hofstadter discusses the problem of language translation, of the problem trying to gesture to a certain semantic connotation given the pointers of the map that you have (something like, if you’re trying to meet up with your friend in NYC when one of you have a street-only map and the other has a subway-only map, and maybe a mutual friend only works in latitudes and longitudes – how to find each other?). But I suspect this concept does not merely apply to speakers of different languages, but also between people speaking the same language.&lt;/p&gt;
+
+&lt;p&gt;For example, the UK is an easy place for an American to travel to because they also speak English, but I think it makes you complacent – there’s an increased risk of falsely believing you understand, when you actually don’t understand. When I lived there, I had a flatmate who went to concerts every other weekend, and when others asked him how they went, he’d always say ‘alright’. I thought him an odd character for continuing to go to these concerts when they seemed reliably disappointing. It wasn’t until months later that I learned that ‘alright’ here meant ‘10/10’, and not the 4/10 implication in American colloquialism.&lt;/p&gt;
+
+&lt;p&gt;But you don’t necessarily avoid this even when you share the same culture: Perhaps one of the most common, recurring conflicts I have with my conversational friends of 10 years (we’re from the same state and met in college) is having different semantics for the same word. Since it’s pervasive even in what I considered a near optimal-compatibility case, this suggests to me that having these differences in semantic mappings may be inevitable, and it’s happening all the time.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Then, how do we communicate effectively to each other at all?&lt;/p&gt;
+
+&lt;p&gt;I’ve developed the impression that we’re not so dissimilar to a neural network, where we’re trying to find some function to map input to output. And if its an area that is encountered often with clear feedback, like daily interactions, there is a lot of training data with functional feedback that is similar and so we each develop a sufficiently nuanced mapping to functionally coordinate. But remember that there are many functions that can approximate a distribution, and when you’re out of distribution, or even at the edge of the distribution where your data points can be idiosyncratically skewed, there’s a fair chance you won’t find yourself in the same place as another.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;../documents/semantics_of_trash.png&quot; title=&quot;&apos;...you know what i mean?&apos;&quot; style=&quot;width:600px; height:400px;&quot; /&gt;&lt;/center&gt;
+&lt;div align=&quot;center&quot;&gt;
+  &lt;p&gt;&lt;em&gt;ignore that our semantics of ‘trash’ are closer to ‘warm’, ‘cozy’, and ‘safe’ here.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;(Anecdotally, the autistic people and immigrants around me seem to have a better time understanding this phenomena – I think they’ve learned from experience that their semantic maps are often not aligned, and so have learned that a good troubleshooting heuristic is to ask a seemingly basic question, of ‘what does this mean to you, in more words?’. It’s sort of like calling your friend to try to locate them, and asking what landmarks they see around them. This is kind of expensive to do every time though, so generally I think people figure out better logistical heuristics. Or not notice/care that they’re in a different location and can’t see each other, which seems to be also a thing, but I haven’t dissected that yet.)&lt;/p&gt;</content><author><name></name></author><summary type="html">warning: some spoilers for ‘Frieren: At World’s End’, which I haven’t watched [April 2025]</summary></entry><entry><title type="html">can you have AGI without god?</title><link href="http://localhost:4000/poop/artificial_god_i" rel="alternate" type="text/html" title="can you have AGI without god?" /><published>2024-08-13T00:00:00-07:00</published><updated>2024-08-13T00:00:00-07:00</updated><id>http://localhost:4000/poop/artificial_god</id><content type="html" xml:base="http://localhost:4000/poop/artificial_god_i">&lt;p&gt;Hello! I’ve somewhat recovered from &lt;a href=&quot;https://dll110.github.io/poop/on_food_and_travel&quot;&gt;vacation&lt;/a&gt; and am ready to impress my half-processed ideas upon the world.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;aesthetic = god = I?&lt;/em&gt;&lt;/p&gt;
 
@@ -302,67 +370,4 @@ Or maybe the tldr is that I’m disappointed/disinterested in current AI because
 &lt;p&gt;–&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;I did not go back and read this; please correct me if I’ve misremembered.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Interestingly, my taste in movies have not changed notably since I was a child. I reliably enjoy ‘wholesome’ movies, which encompasses most Pixar, and generally, the family-film genre. I strongly disliked ‘The Prince of Egypt’ for its lack of wholesomeness – I would’ve wanted the brothers to sincerely try to understand each other.</summary></entry><entry><title type="html">some scattered, non-comprehensive reflections on aging and mortality</title><link href="http://localhost:4000/poop/mortal" rel="alternate" type="text/html" title="some scattered, non-comprehensive reflections on aging and mortality" /><published>2023-12-19T00:00:00-08:00</published><updated>2023-12-19T00:00:00-08:00</updated><id>http://localhost:4000/poop/mortality</id><content type="html" xml:base="http://localhost:4000/poop/mortal">&lt;p&gt;[2023/12/21]&lt;/p&gt;
-
-&lt;p&gt;My last grandparent died yesterday morning, at the grand old age of 96. I last saw her in October, for her birthday banquet dinner. She still had a firm grip when I shook her hand.&lt;/p&gt;
-
-&lt;p&gt;My dad had sent me her medical report the other day. I’m not a doctor (but I used to manually extract information from electronic medical records (EMRs) for clinical research) but most of her physiological systems looked serviceable. The main problem seemed to be her kidneys; she had end-stage renal disease (ESRD – reading clinical notes is largely in recognizing all the acronyms). And she was in the hospital because access point for dialysis had gotten infected, so they had used emergency access points, and were having trouble finding a permanent access point to be able to discharge her. Then, it seems like they had trouble removing excess fluid the day before she died, and she already had hypertension (HTN). It seems she died in her sleep this morning.&lt;/p&gt;
-
-&lt;p&gt;I chatted with my family after hearing the news; my mother mentions how 30 years ago, my grandmother came to stay with them to help out with Vic around my birth. My memories of her are clearest when they are from when I was less than 10 years old – she was much more active then. I remember playing at her sunny house with my sister; I was maybe 4. She might’ve had a garden at that point. I would ask her to wrap a doll up like you would a baby, and she’d oblige every time (the wrapping would come apart after some time). When I was elementary-school-aged, she obliged in scratching my back when I was watching a movie at my aunt’s house (I had chronic eczema) until my back was sore (I had asked her to). She made these ‘crystal skin’ dumplings filled with water chestnut, dried shrimp, mushrooms, which I’ve never seen elsewhere.&lt;/p&gt;
-
-&lt;p&gt;I did not know her particularly well, but my mom loved her deeply, and her death feels like the end of an era, maybe in how childhood feels so much more nostalgic and bittersweet now – figures from that era will inevitably fall away (eventually it will be my own parents).&lt;/p&gt;
-
-&lt;p&gt;…&lt;/p&gt;
-
-&lt;p&gt;I had the passing thought the other day, that another upside to having quit my PhD is that I’m not as officially tied to the field of aging. It is perhaps notable how uninterested I am to it compared to the average person I encounter. And then I do not want them to find out that I used to work on it because &lt;a href=&quot;dll110.github.io/poop/independently&quot;&gt;I feel like a party pooper every time&lt;/a&gt;, holding a pessimistic/apathetic attitude towards their hope against a deep-seated fear (AFAICT).&lt;/p&gt;
-
-&lt;p&gt;I think it would be good for me to be wrong, but I can’t help but feel a bit of validation when my skepticism pans out. For example, I was surprised to hear that a longevity drug ‘passed’ FDA approval; I’m not surprised to now learn that &lt;a href=&quot;https://www.lesswrong.com/posts/vHSkxmYYqW59sySqA/the-likely-first-longevity-drug-is-based-on-sketchy-science&quot;&gt;it has low proof of efficacy&lt;/a&gt;. There was another tweet recently about how RetroBio wants to add 10 years to everyone. Perhaps I’m complacent because my grandparents have almost all made it to their 90s, and it’s not clear to me that they would’ve benefited greatly from same solution you’d try to give the average person to extend their life 10 years (death from cardiovascular disease or cancer, I’m guessing?). I am not sure how senolytics, say, will address or prevent ESRD. The mechanistic connection seems far, from the perspective over here. Generally, I think it’s theoretically possible, but I suspect it’s much more complicated than they make it seem (I’m reminded of &lt;a href=&quot;https://en.m.wikipedia.org/wiki/War_on_cancer&quot;&gt;the ‘war on cancer’&lt;/a&gt;). And I guess it’s not really constructive criticism, but it does not quite seem like the right shape of a solution.&lt;/p&gt;
-
-&lt;p&gt;…&lt;/p&gt;
-
-&lt;p&gt;I did not saliently consider that you could have a lightpost to mark your life (I saw a lamppost casted with a dedication on a walk recently), but if that’s possible, I’d much prefer that to a gravestone. (What about a lightpost that can hold a few books?) Even a bench would be cooler. (A joint lightpost, bench with a close friend/family would be greatly satisfying, with a little library in proximity). I should make some sketches at some point.&lt;/p&gt;</content><author><name></name></author><summary type="html">[2023/12/21]</summary></entry><entry><title type="html">on love</title><link href="http://localhost:4000/poop/love" rel="alternate" type="text/html" title="on love" /><published>2023-12-01T00:00:00-08:00</published><updated>2023-12-01T00:00:00-08:00</updated><id>http://localhost:4000/poop/love</id><content type="html" xml:base="http://localhost:4000/poop/love">&lt;p&gt;For some reason I feel compelled to write about love, ironically at a time I feel most unqualified to do so. Maybe I’m trying to give myself reassurance.&lt;/p&gt;
-
-&lt;p&gt;It’s been less than a week since my first break up and while I’m feeling better than expected, I’m not sure I’ve processed things enough, and I’ve been told that I’m good at compartmentalizing. It’s not that I intend to, rather, I think it’s a byproduct of my low RAM/memory window, and I’ve been juggling a lot of things these days.&lt;/p&gt;
-
-&lt;p&gt;It feels like a personal failing, of sorts, to have not been able to take care of someone enough, to not be able to find a good person, enough.&lt;/p&gt;
-
-&lt;p&gt;At the same time, it’s not unexpected – I suspected at 17 that dating would not be easy for me (in my accuracy, is this possibly a self-fulfilling prophecy?). And my strategy has been to lean into my friendships and career interests to compensate, in anticipation of a romantically lonely future.&lt;/p&gt;
-
-&lt;p&gt;In that sense, I’ve been surprisingly successful, by my own standards: I have a relatively clear idea of what I find compelling, and while it hasn’t been easy or straightforward (a lot of luck involved), I’ve been able to maneuver myself into opportunities to work on compelling problems. I have a few very solid friends (I tend to have more intimate platonic relationships than average), and a good smattering of interesting friends for novelty.&lt;/p&gt;
-
-&lt;p&gt;In fact, I’m so good at friendships that my ex now thinks it’s an upgrade (less stress). And I’m not sure how to not internalize that I’m fussy and difficult. I’ve tried to find attitudes over the years to make myself easier, to smooth out my rough edges.&lt;/p&gt;
-
-&lt;p&gt;Friendships are easier because you don’t need to worry about idiosyncratic compatibilities (like if you find them physically attractive, cleanliness, etc), you can just evaluate them on ideals, like their strength of character. With this distance, I can wholeheartedly support them becoming whatever they want – and I seem to do this well, I am characterized by friends as being unusually nonjudgmental and accepting. But this is not true for a romantic partner because they’ll inevitably encounter my fussy idiosyncratic preferences, which I’ve been able to largely restrict, even from friends, but it is not feasible in at the distance of a romantic relationship.&lt;/p&gt;
-
-&lt;p&gt;I think there’s a 80% probability that I end up unwed and alone. That’s generally the trend of women that I find admirable on wikipedia. I think it could be a nice life to raise a kid with my friends, taking advantage of my strengths. Some people are polyamorous, and I guess I’m arguably platonically polyamorous. I desire to be romantically monogamous though. I want a best friend and not be lonely, to always have a default partner to pair up with in life’s group projects/events. While everyone is most fearing their mortality, I most fear feeling alone.&lt;/p&gt;
-
-&lt;p&gt;And this is related to why dating is hard for me – I need specific kinds of conversation/interaction to not feel lonely. It is something like a mutual exploration to understand something, and my close friends suggest that it requires the specific aesthetic of a bottom up approach (my ex had a top-down approach). This tends to be a hard filter, and from there, the usual dating things also apply (attraction, logistics, etc). Perhaps I’m too picky, but I currently don’t know how to loosen them, and I’ve tried for a decade now.&lt;/p&gt;
-
-&lt;p&gt;Aversion to feeling alone might be why I value physical touch so much – it is grounding, it concretely tells me that, in this universe, someone else is here with me. But it is finicky – its effectiveness is dependent on how close I feel with them. I really only seek and can only get this kind of comfort from a limited number of people.&lt;/p&gt;
-
-&lt;p&gt;I’m not sure where I wanted to go with this. I don’t have an insightful commentary about love. Let me share the ones I’ve collected over the years in that place:&lt;/p&gt;
-
-&lt;p&gt;“Love does not consist in gazing at each other, but in looking outward together in the same direction.”&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Antoine de Saint-Exupery
-(adjacent to “The Missing Piece Meets the Big O” by Shel Silverstein)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You tend to go back to who feels like home.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;ten word story, j.h. (via jewelhess)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;“And if you cannot find your way out of the darkness,
-I will sit there with you and show you the stars.”&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;N.R. Hart&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;“The most fortunate relationships are a natural match between what a person lacks and what the other cannot wait to give.” 
-(reflects how I don’t really believe in settling)&lt;/p&gt;
-
-&lt;p&gt;“I’ve become skeptical of the unwritten rule that just because a boy and girl appear in the same feature, a romance must ensue. Rather, I want to portray a slightly different relationship, one where the two mutually inspire each other to live - if I’m able to, then perhaps I’ll be closer to portraying a true expression of love.”&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Hayao Miyazaki&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">For some reason I feel compelled to write about love, ironically at a time I feel most unqualified to do so. Maybe I’m trying to give myself reassurance.</summary></entry></feed>
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Interestingly, my taste in movies have not changed notably since I was a child. I reliably enjoy ‘wholesome’ movies, which encompasses most Pixar, and generally, the family-film genre. I strongly disliked ‘The Prince of Egypt’ for its lack of wholesomeness – I would’ve wanted the brothers to sincerely try to understand each other.</summary></entry></feed>
